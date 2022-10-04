@@ -12,21 +12,21 @@
         <category id="2" parentId="1">Настенные кондиционеры</category>
     </categories>
     <offers>
-        <offer id="1" available="true" type="vendor.model">
-            <url>https://www.example.com/cond/model-ls-h0561al</url>
-            <price>10596</price>
-            <currencyId>RUR</currencyId>
+        <offer id="" available="true" type="vendor.model">
+            <url></url>
+            <price></price>
+            <currencyId></currencyId>
             <categoryId>2</categoryId>
-            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
-            <typePrefix>Кондиционер</typePrefix>
-            <vendor>LG</vendor>
-            <model>LS-H0561AL</model>
+            <picture></picture>
+            <typePrefix></typePrefix>
+            <vendor></vendor>
+            <model></model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
             <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</ios_tracking_url>
+            <android_tracking_url></android_tracking_url>
+            <ios_tracking_url></ios_tracking_url>
         </offer>
         <offer id="" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
