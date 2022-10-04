@@ -4,9 +4,7 @@
     <name>Интернет-магазин</name>
     <company>ООО "Магазин"</company>
     <url>https://www.example.com</url>
-    <currencies>
-        <currency id="RUR"/>
-    </currencies>
+    
     <categories>
         <category id="1" parentId="0">Кондиционеры</category>
         <category id="2" parentId="1">Настенные кондиционеры</category>
