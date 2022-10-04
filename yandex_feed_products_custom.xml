@@ -28,7 +28,7 @@
             <android_tracking_url></android_tracking_url>
             <ios_tracking_url></ios_tracking_url>
         </offer>
-        <offer id="22222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222" available="true" type="vendor.model">
+        <offer id="2" available="true" type="vendor.model">
             <url>https://mail.ru</url>
             <price>30203</price>
             <currencyId>RUR</currencyId>
@@ -60,7 +60,7 @@
             <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
             <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
         </offer>
-        <offer id="3" available="true" type="vendor.model">
+        <offer id="4" available="true" type="vendor.model">
             <url>https://mail.ru</url>
             <price>30203,22</price>
             <currencyId>AUD</currencyId>
