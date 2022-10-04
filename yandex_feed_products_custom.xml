@@ -13,7 +13,7 @@
     </categories>
     <offers>
         <offer id="1" available="true" type="vendor.model">
-            <url></url>
+            <url>https://mail.ru</url>
             <price></price>
             <currencyId></currencyId>
             <categoryId>2</categoryId>
@@ -29,7 +29,7 @@
             <ios_tracking_url></ios_tracking_url>
         </offer>
         <offer id="22222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222" available="true" type="vendor.model">
-            <url>https://www.example.com/cond/model-ls-h0893</url>
+            <url>https://mail.ru</url>
             <price>30203</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
@@ -45,7 +45,7 @@
             <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</ios_tracking_url>
         </offer>
         <offer id="3" available="true" type="vendor.model">
-            <url>/cond/model-ls-h0893</url>
+            <url>https://mail.ru</url>
             <price>30203</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
@@ -61,7 +61,7 @@
             <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
         </offer>
         <offer id="3" available="true" type="vendor.model">
-            <url>https://www.example.com/cond/model-ls-h08938</url>
+            <url>https://mail.ru</url>
             <price>30203,22</price>
             <currencyId>AUD</currencyId>
             <categoryId>2</categoryId>
@@ -77,7 +77,7 @@
             <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
         </offer>
         <offer id="5" available="true" type="vendor.model">
-            <url>https://www.example.com/cond/model-ls-h0893</url>
+            <url>https://mail.ru</url>
             <price>30203</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
@@ -93,7 +93,7 @@
             <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
         </offer>
         <offer id="6" available="true" type="vendor.model">
-            <url>https://www.example.com/cond/model-ls-h0893</url>
+            <url>https://mail.ru</url>
             <price>30203</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
@@ -109,7 +109,7 @@
             <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
         </offer>
         <offer id="7" available="true" type="vendor.model">
-            <url>https://www.example.com/cond/model-ls-h0893</url>
+            <url>https://www.yandex.ru</url>
             <price>30203</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
@@ -125,7 +125,7 @@
             <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
         </offer>
         <offer id="8" available="true" type="vendor.model">
-            <url>https://www.example.com/cond/model-ls-h0893</url>
+            <url>https://www.yandex.ru</url>
             <price>30203</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
