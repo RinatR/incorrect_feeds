@@ -36,7 +36,7 @@
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>кондиционер</typePrefix>
             <vendor>lg</vendor>
-            <model>ls-h0893</model>
+            <model>lsmodel</model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
