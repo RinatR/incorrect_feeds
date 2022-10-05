@@ -46,8 +46,7 @@
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
             <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</ios_tracking_url>
+            
         </offer>
         <offer id="3" available="true" type="vendor.model">
             <url>https://mail.ru</url>
