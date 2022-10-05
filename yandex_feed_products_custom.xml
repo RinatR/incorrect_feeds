@@ -22,8 +22,8 @@
             <typePrefix></typePrefix>
             <vendor></vendor>
             <model></model>
-            <android_url>myapplication://product?article=100001 </android_url>
-            <ios_url>myapp://product?article=100001 </ios_url>
+            <android_url>//product?article=100001 </android_url>
+            <ios_url>//product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
             <ios_app_store_id>100500</ios_app_store_id>
             <android_tracking_url></android_tracking_url>
