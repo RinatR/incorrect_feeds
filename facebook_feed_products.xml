@@ -5,13 +5,7 @@
     <link>https://www.sportmaster.ru</link>
     <description>Спортмастер</description>
     <item>
-      <g:brand>VauDe</g:brand>
-      <g:item_group_id>22820640299</g:item_group_id>
-      <g:description>Удобный и легкий рюкзак для трекинга с регулируемой спиной и передним доступом VauDe Asymmetric 42+8. ЛЕГКОСТЬ: Рюкзак весит 1475 гр. ФУНКЦИОНАЛЬНОСТЬ: Дополнительный фронтальный доступ в рюкзак позволяет без труда добраться до нужных вещей. ДОПОЛНИТЕЛЬНЫЙ ОБЪЕМ: Предусмотрено 2 наружных сетчатых кармана.</g:description>
-      <g:id>176688400299</g:id>
-      <g:price>18199 RUB</g:price>
-      <g:title>Рюкзак VauDe Asymmetric 42+8 л</g:title>
-      <g:image_link>https://cdn.sptmr.ru/upload/iblock/862/48900510299.jpg</g:image_link>
+      
       <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/f5b/48900520299.jpg</g:additional_image_link>
       <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/ad3/48900530299.jpg</g:additional_image_link>
       <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/a7a/48900540299.jpg</g:additional_image_link>
@@ -22,7 +16,7 @@
       <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/1d3/48900590299.jpg</g:additional_image_link>
       <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/c99/48900600299.jpg</g:additional_image_link>
       <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/414/48900610299.jpg</g:additional_image_link>
-      <g:link>https://www.sportmaster.ru/product/22820640299/</g:link>
+      
       <g:product_type>Аксессуары > Рюкзаки и сумки > Рюкзаки</g:product_type>
       <g:custom_label_0>unisex</g:custom_label_0>
 	  <g:custom_label_1>adult</g:custom_label_1>
