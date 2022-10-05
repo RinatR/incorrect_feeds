@@ -4,43 +4,13 @@
     <title>Спортмастер</title>
     <link>https://www.sportmaster.ru</link>
     <description>Спортмастер</description>
+    
     <item>
       
-      <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/f5b/48900520299.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/ad3/48900530299.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/a7a/48900540299.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/3f5/48900550299.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/9be/48900560299.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/f46/48900570299.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/e19/48900580299.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/1d3/48900590299.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/c99/48900600299.jpg</g:additional_image_link>
-      <g:additional_image_link>https://cdn.sptmr.ru/upload/iblock/414/48900610299.jpg</g:additional_image_link>
-      
-      <g:product_type>Аксессуары > Рюкзаки и сумки > Рюкзаки</g:product_type>
-      <g:custom_label_0>unisex</g:custom_label_0>
-	  <g:custom_label_1>adult</g:custom_label_1>
-	  <g:custom_label_2>0</g:custom_label_2>
-	  <g:custom_label_3>empty</g:custom_label_3>
-      <g:color>Серый</g:color>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:size>Без размера</g:size>
-      <g:gender>unisex</g:gender>
-      <g:age_group>adult</g:age_group>
-      <g:mobile_android_app_link>sportmaster://product/22820640299/</g:mobile_android_app_link>
-      <g:mobile_ios_app_link>sportmaster://product/22820640299/</g:mobile_ios_app_link>	  
-      <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
-	  <g:android_app_link>ru.sportmaster.app</g:android_app_link>
-	  <g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</g:android_tracking_url>
-	  <g:ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int</g:ios_tracking_url>
-    </item>
-    <item>
-      <g:brand>Skechers</g:brand>
       <g:item_group_id>25947980299</g:item_group_id>
       <g:description>Универсальные кроссовки Go Train — отличный вариант для тех, кто ценит стиль и практичность. КОМФОРТ: Перфорированная стелька Air Cooled Goga Mat Ortholite обеспечивает комфорт во время ходьбы. АМОРТИЗАЦИЯ: Подошва из амортизирующего материала ULTRA GO эффективно поглощает ударные нагрузки и быстро восстанавливает форму после деформации. СЦЕПЛЕНИЕ С ПОВЕРХНОСТЬЮ: Подметка выполнена из износостойкой резины, что гарантирует надежное сцепление на любых типах поверхностей.</g:description>
       <g:id>187381190299</g:id>
-      <g:price>7299 RUB</g:price>
+     
       <g:sale_price>4744 RUB</g:sale_price>
       <g:title>Кроссовки мужские Skechers Go Train Move</g:title>
       <g:image_link>https://cdn.sptmr.ru/upload/iblock/761/62481980299.jpg</g:image_link>
