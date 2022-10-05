@@ -28,7 +28,7 @@
         </offer>
         <offer id="2" available="true" type="vendor.model">
             <url>https://mail.ru</url>
-            <price>30203</price>
+            <price>30203 RUB</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
