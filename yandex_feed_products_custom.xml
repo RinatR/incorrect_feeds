@@ -32,7 +32,7 @@
         <offer id="2" available="true" type="vendor.model">
             <url>https://mail.ru</url>
             <price>30203 RUB</price>
-            <old_price>100</old_price>
+            <old_price>100 RUB</old_price>
             <currencyId>RUR</currencyId>            
             <categoryId>2</categoryId>
             <picture>http://trgdev2.corp.mail.ru/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
