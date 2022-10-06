@@ -1,142 +1,75 @@
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
-<entry>
-
-<g:title>LG 22LB4510 - 22" LED TV - 1080p (FullHD)</g:title>
-<g:description>Attractively styled and boasting stunning picture quality, the LG 22LB4510 - 22" LED TV - 1080p (FullHD) is an excellent television/monitor. The LG 22LB4510 - 22" LED TV - 1080p (FullHD) sports a widescreen 1080p panel, perfect for watching movies in their original format, whilst also providing plenty of working space for your other applications.</g:description>
-<g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
-<g:image_link>https://www.lg.com/us/images/tvs/22lb4510/gallery/copy-large01.jpg</g:image_link>
-<g:condition>бу</g:condition>
-<g:availability>true</g:availability>
-<g:price>159.00 AUD</g:price>
-<g:shipping>
-<g:country>US</g:country>
-<g:service>Standard</g:service>
-<g:price>14.95 USD</g:price>
-</g:shipping>
-<g:gtin>71919219405200</g:gtin>
-<g:brand>LG</g:brand>
-<g:mpn>22LB4510/US</g:mpn>
-<g:google_product_category>Electronics > Video > Televisions > Flat Panel Televisions</g:google_product_category>
-<g:product_type>Consumer Electronics > TVs > Flat Panel TVs</g:product_type>
-</entry>
-<entry>
-<g:id>TV_2</g:id>
-<g:title>LG 22LB4510 - 22" LED TV - 1080p (FullHD)</g:title>
-<g:description>Attractively styled and boasting stunning picture quality, the LG 22LB4510 - 22" LED TV - 1080p (FullHD) is an excellent television/monitor. The LG 22LB4510 - 22" LED TV - 1080p (FullHD) sports a widescreen 1080p panel, perfect for watching movies in their original format, whilst also providing plenty of working space for your other applications.</g:description>
-<g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
-<g:image_link>https://www.lg.com/us/images/tvs/22lb4510/gallery/copy-large01.jpg</g:image_link>
-<g:condition>бу</g:condition>
-<g:availability>true</g:availability>
-<g:price>159.00 TR</g:price>
-<g:shipping>
-<g:country>US</g:country>
-<g:service>Standard</g:service>
-<g:price>14.95 TR</g:price>
-</g:shipping>
-<g:gtin>71919219405200</g:gtin>
-<g:brand>LG</g:brand>
-<g:mpn>22LB4510/US</g:mpn>
-<g:google_product_category>Electronics > Video > Televisions > Flat Panel Televisions</g:google_product_category>
-<g:product_type>Consumer Electronics > TVs > Flat Panel TVs</g:product_type>
-</entry>
-<entry>
-<g:id>TV_3</g:id>
-<g:title>LG 22LB4510 - 22" LED TV - 1080p (FullHD)</g:title>
-<g:description>Attractively styled and boasting stunning picture quality, the LG 22LB4510 - 22" LED TV - 1080p (FullHD) is an excellent television/monitor. The LG 22LB4510 - 22" LED TV - 1080p (FullHD) sports a widescreen 1080p panel, perfect for watching movies in their original format, whilst also providing plenty of working space for your other applications.</g:description>
-<g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
-<g:image_link>https://www.lg.com/us/images/tvs/22lb4510/gallery/copy-large01.jpg</g:image_link>
-<g:condition>used</g:condition>
-<g:availability>true</g:availability>
-<g:price>159.00 USD</g:price>
-<g:shipping>
-<g:country>US</g:country>
-<g:service>Standard</g:service>
-<g:price>14.95 USD</g:price>
-</g:shipping>
-<g:gtin>71919219405200</g:gtin>
-<g:brand>LG</g:brand>
-<g:mpn>22LB4510/US</g:mpn>
-<g:google_product_category>Electronics > Video > Televisions > Flat Panel Televisions</g:google_product_category>
-<g:product_type>Consumer Electronics > TVs > Flat Panel TVs</g:product_type>
-</entry>
-<entry>
-<g:id>TV_4</g:id>
-<g:title>LG 22LB4510 - 22" LED TV - 1080p (FullHD)</g:title>
-<g:description>Attractively styled and boasting stunning picture quality, the LG 22LB4510 - 22" LED TV - 1080p (FullHD) is an excellent television/monitor. The LG 22LB4510 - 22" LED TV - 1080p (FullHD) sports a widescreen 1080p panel, perfect for watching movies in their original format, whilst also providing plenty of working space for your other applications.</g:description>
-<g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
-<g:image_link>https://www.lg.com/us/images/tvs/22lb4510/gallery/copy-large01.jpg</g:image_link>
-<g:condition>used</g:condition>
-<g:availability>true</g:availability>
-<g:price>159.00 USD</g:price>
-<g:shipping>
-<g:country>US</g:country>
-<g:service>Standard</g:service>
-<g:price>14.95 USD</g:price>
-</g:shipping>
-<g:gtin>71919219405200</g:gtin>
-<g:brand>LG</g:brand>
-<g:mpn>22LB4510/US</g:mpn>
-<g:google_product_category>Electronics > Video > Televisions > Flat Panel Televisions</g:google_product_category>
-<g:product_type>Consumer Electronics > TVs > Flat Panel TVs</g:product_type>
-</entry>
-<entry>
-<g:id>TV_5</g:id>
-<g:title>LG 22LB4510 - 22" LED TV - 1080p (FullHD)</g:title>
-<g:description>Attractively styled and boasting stunning picture quality, the LG 22LB4510 - 22" LED TV - 1080p (FullHD) is an excellent television/monitor. The LG 22LB4510 - 22" LED TV - 1080p (FullHD) sports a widescreen 1080p panel, perfect for watching movies in their original format, whilst also providing plenty of working space for your other applications.</g:description>
-<g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
-<g:image_link>https://www.lg.com/us/images/tvs/22lb4510/gallery/copy-large01.jpg</g:image_link>
-<g:condition>used</g:condition>
-<g:availability>true</g:availability>
-<g:price>159.00 USD</g:price>
-<g:shipping>
-<g:country>US</g:country>
-<g:service>Standard</g:service>
-<g:price>14.95 USD</g:price>
-</g:shipping>
-<g:gtin>71919219405200</g:gtin>
-<g:brand>LG</g:brand>
-<g:mpn>22LB4510/US</g:mpn>
-<g:google_product_category>Electronics > Video > Televisions > Flat Panel Televisions</g:google_product_category>
-<g:product_type>Consumer Electronics > TVs > Flat Panel TVs</g:product_type>
-</entry>
-<entry>
-<g:id>TV_6</g:id>
-<g:title>LG 22LB4510 - 22" LED TV - 1080p (FullHD)</g:title>
-<g:description>Attractively styled and boasting stunning picture quality, the LG 22LB4510 - 22" LED TV - 1080p (FullHD) is an excellent television/monitor. The LG 22LB4510 - 22" LED TV - 1080p (FullHD) sports a widescreen 1080p panel, perfect for watching movies in their original format, whilst also providing plenty of working space for your other applications.</g:description>
-<g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
-<g:image_link>https://www.lg.com/us/images/tvs/22lb4510/gallery/copy-large01.jpg</g:image_link>
-<g:condition>used</g:condition>
-<g:availability>true</g:availability>
-<g:price>159.00 USD</g:price>
-<g:shipping>
-<g:country>US</g:country>
-<g:service>Standard</g:service>
-<g:price>14.95 USD</g:price>
-</g:shipping>
-<g:gtin>71919219405200</g:gtin>
-<g:brand>LG</g:brand>
-<g:mpn>22LB4510/US</g:mpn>
-<g:google_product_category>Electronics > Video > Televisions > Flat Panel Televisions</g:google_product_category>
-<g:product_type>Consumer Electronics > TVs > Flat Panel TVs</g:product_type>
-</entry>
-<entry>
-<g:id>TV_7</g:id>
-<g:title>LG 22LB4510 - 22" LED TV - 1080p (FullHD)</g:title>
-<g:description>Attractively styled and boasting stunning picture quality, the LG 22LB4510 - 22" LED TV - 1080p (FullHD) is an excellent television/monitor. The LG 22LB4510 - 22" LED TV - 1080p (FullHD) sports a widescreen 1080p panel, perfect for watching movies in their original format, whilst also providing plenty of working space for your other applications.</g:description>
-<g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
-<g:image_link>https://www.lg.com/us/images/tvs/22lb4510/gallery/copy-large01.jpg</g:image_link>
-<g:condition>used</g:condition>
-<g:availability>true</g:availability>
-<g:price>159.00 USD</g:price>
-<g:shipping>
-<g:country>US</g:country>
-<g:service>Standard</g:service>
-<g:price>14.95 USD</g:price>
-</g:shipping>
-<g:gtin>71919219405200</g:gtin>
-<g:brand>LG</g:brand>
-<g:mpn>22LB4510/US</g:mpn>
-<g:google_product_category>Electronics > Video > Televisions > Flat Panel Televisions</g:google_product_category>
-<g:product_type>Consumer Electronics > TVs > Flat Panel TVs</g:product_type>
-</entry>
-</feed>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:g="http://base.google.com/ns/1.0" version="2.0"><channel>        <title>DMI</title>
+		<link>https://dyatkovo.ru/</link>
+		<description>DMI</description><item>
+<g:title>Стол журнальный ESTE ST520.3</g:title>
+<g:mpn>ST520.3</g:mpn>
+<g:description>Журнальный столик станет украшением любой современной гостиной.Даже при полном разрушении она рассыпается на мелкие кусочки с неострыми краями.</g:description>
+<g:id>66888</g:id>
+<g:link>https://mail.ru/catalogue/stoly/66888/</g:link>
+<g:image_link>https://dyatkovo.ru/upload/iblock/aa7/aa763370dfa00e919b0b412e2ea12590.jpef</g:image_link>
+<g:price>22008 TR</g:price>
+<g:availability>в наличии</g:availability>
+<g:brand>Дятьково</g:brand>
+<g:condition>новый</g:condition>
+<g:adult>no</g:adult>
+<g:product_type>Главная &gt; Столы</g:product_type>
+</item>
+<item>
+<g:title> ESTE ST520.4</g:title>
+<g:mpn>ST520.4</g:mpn>
+<g:description> Журнальный столик станет украшением любой современной гостиной.Даже при полном разрушении она рассыпается на мелкие кусочки с неострыми краями.</g:description>
+<g:id></g:id>
+<g:link>https://dyatkovo.ru/catalogue/stoly/66889/</g:link>
+<g:image_link>https://dyatkovo.ru/upload/iblock/51d/51dcd41f2edf6a4c94d2f6b6eb08caae.jpg</g:image_link>
+<g:price>22008 RUB</g:price>
+  <g:sale_price>22008 USD</g:sale_price>
+<g:availability>in stock</g:availability>
+<g:brand>ТЕТЬКОВО</g:brand>
+<g:condition>new</g:condition>
+<g:adult>no</g:adult>
+<g:product_type>Главная &gt; Столы</g:product_type>
+</item>
+<item>
+<g:title>Подставка под ТВ 7059.1</g:title>
+<g:mpn>7059.1</g:mpn>
+<g:description>Подставка под ТВ представляет собой двухсекционную полку из закаленного бронзированного стекла, которое отличается высокой прочностью.</g:description>
+<g:id>7675</g:id>
+<g:link>https://dyatkovo.ru/catalogue/tumby/pod_tv/7675/</g:link>
+<g:image_link>https://dyatkovo.ru/upload/iblock/f38/f38c9e592686b788090a9362912ae833.jpg</g:image_link>
+<g:price>18765 RUB</g:price>
+<g:availability>in stock</g:availability>
+<g:brand>Дятьково</g:brand>
+<g:condition>new</g:condition>
+<g:adult>no</g:adult>
+<g:product_type>Главная &gt; Тумбы &gt; Под ТВ</g:product_type>
+</item>
+<item>
+<g:title>Полка ESTE ST516.2</g:title>
+<g:mpn>ST516.2</g:mpn>
+<g:description>Глянцевые полки с подсветкой – изящный штрих, который привносит в интерьер легкость. Это идеальное место для размещения стильных предметов декора.</g:description>
+<g:id>8001</g:id>
+<g:link>https://dyatkovo.ru/catalogue/polki/8001/</g:link>
+<g:image_link>https://dyatkovo.ru/upload/iblock/a89/a899ec64ac1aa2da48d040128ef9486d.jpg</g:image_link>
+<g:price>8143 RUB</g:price>
+<g:availability>in stock</g:availability>
+<g:brand>Дятьково</g:brand>
+<g:condition>new</g:condition>
+<g:adult>no</g:adult>
+<g:product_type>Главная &gt; Полки</g:product_type>
+</item>
+<item>
+<g:title>Полка ESTE ST516.3</g:title>
+<g:mpn>ST516.3</g:mpn>
+<g:description>Глянцевые полки с подсветкой – изящный штрих, который привносит в интерьер легкость. Это идеальное место для размещения стильных предметов декора.</g:description>
+<g:id>8002</g:id>
+<g:link>https://dyatkovo.ru/catalogue/polki/8002/</g:link>
+<g:image_link>https://dyatkovo.ru/upload/iblock/542/542f7f785e38fb0bd0d8d04224d7e6bb.jpg</g:image_link>
+<g:price>8143 RUB</g:price>
+<g:availability>in stock</g:availability>
+<g:brand>Дятьково</g:brand>
+<g:condition>new</g:condition>
+<g:adult>no</g:adult>
+<g:product_type>Главная &gt; Полки</g:product_type>
+</item>
+</channel>
+</rss>
