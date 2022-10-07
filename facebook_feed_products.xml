@@ -17,7 +17,8 @@
 <brand>ESTE </brand>
 <android_tracking_url>https://app.rambler.com/ru.ozon.app.android?pid=mail.ru_int </android_tracking_url>
     <ios_tracking_url>https://app.rambler.com/ru.ozon.app.android?pid=mail.ru_int </ios_tracking_url>
-    
+ <android_url>://products/456 </android_url>
+<ios_url>://product/123 </ios_url>  
 </item>
     <item>
 <g:title>Полка ESTE ST516.3</g:title>
@@ -32,7 +33,8 @@
 <brand>ESTE </brand>
 <android_tracking_url>https://app.rambler.com/ru.ozon.app.android?pid=mail.ru_int </android_tracking_url>
     <ios_tracking_url>https://app.rambler.com/ru.ozon.app.android?pid=mail.ru_int </ios_tracking_url>
-    
+ <android_url>bozon://products/456 </android_url>
+<ios_url>ozon://product/123 </ios_url>
 </item>
 </channel>
 </rss>
