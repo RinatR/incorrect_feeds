@@ -3,34 +3,15 @@
 <title>DMI</title>
 <link>https://dyatkovo.ru/</link>
 <description>DMI</description>
-<item>
-<g:title>Полка ESTE ST516.3</g:title>
-<g:mpn>ST516.3</g:mpn>
-<g:description>HTTPS://RINATR.GITHUB.IO/INCORRECT_FEEDS/FACEBOOK_FEED_PRODUCT</g:description>
-<g:id>1</g:id>
-<g:link>https://dyatkovo.ru/catalogue/polki/800233/</g:link>
-<g:image_link></g:image_link>
-<g:price>8143 RUB</g:price>
-<min_price>5000 USD</min_price>
-<max_price>6000 USD</max_price>
-<g:availability>бизимкиляр</g:availability>
-<g:condition>new</g:condition>
-<g:adult>no</g:adult>
-<age_group>пампарарараоалалала</age_group>
 
-</item>
   <item>
 <g:title>Полка ESTE ST516.3</g:title>
 <g:mpn>ST516.3</g:mpn>
-
 <g:id>1</g:id>
 <g:link>https://yandex.ru/</g:link>
 <g:image_link>https://icons.iconarchive.com/icons/treetog/junior/128/camera-icons.png</g:image_link>
 <g:price>8143 RUB</g:price>
-
 <g:condition>new</g:condition>
-
-
 </item>
 </channel>
 </rss>
