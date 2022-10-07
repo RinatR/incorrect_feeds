@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>        
+<title>DMI</title>
+<link>https://dyatkovo.ru/abcdefg</link>
+<description>DMI</description>
+
+
+<item>
+<g:title>Полка ESTE ST516.3</g:title>
+<g:mpn>ST516.3</g:mpn>
+<g:id>10</g:id>
+<g:link>https://dyatkovo.ru/</g:link>
+<g:image_link>https://icons.iconarchive.com/icons/treetog/junior/128/camera-icon.png</g:image_link>
+<g:price>8143 RUB</g:price>
+<g:condition>new</g:condition>
+<brand>ESTE </brand>
+<android_tracking_url>https://app.rambler.com/ru.ozon.app.android?pid=mail.ru_int </android_tracking_url>
+<ios_tracking_url>https://app.rambler.com/ru.ozon.app.android?pid=mail.ru_int </ios_tracking_url>
+<android_url>bozon://products/456 </android_url>
+<ios_url>ozon://product/123 </ios_url>
+</item>
+<item>
+<g:title>Полка ESTE ST516.3</g:title>
+<g:mpn>ST516.3</g:mpn>
+<g:id>10</g:id>
+<g:link>https://dyatkovo.ru/</g:link>
+<g:image_link>https://icons.iconarchive.com/icons/treetog/junior/128/camera-icon.png</g:image_link>
+<g:price>8143 RUB</g:price>
+<g:condition>new</g:condition>
+<brand>ESTE </brand>
+<android_tracking_url>https://app.rambler.com/ru.ozon.app.android?pid=mail.ru_int </android_tracking_url>
+<ios_tracking_url>https://app.rambler.com/ru.ozon.app.android?pid=mail.ru_int </ios_tracking_url>
+<android_url>bozon://products/456 </android_url>
+<ios_url>ozon://product/123 </ios_url>
+</item>
+</channel>
+</rss>
