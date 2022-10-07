@@ -16,6 +16,7 @@
 <g:condition>new</g:condition>
 <brand>ESTE </brand>
 <android_tracking_url>https://app.appsflyer.com/ru.ozon.app.android?pid=mail.ru_int </android_tracking_url>
+    <ios_tracking_url>https://app.appsflyer.com/ru.ozon.app.android?pid=mail.ru_int </ios_tracking_url>
     
 </item>
 </channel>
