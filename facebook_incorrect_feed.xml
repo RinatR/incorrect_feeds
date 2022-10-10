@@ -12,11 +12,7 @@
 <g:price>1,900.00 RUB</g:price>
 <g:condition>new</g:condition>
 <brand>ESTE </brand>
-
 </item>
-
-
-
 <item>
 <g:title>Полка ESTE ST516.3</g:title>
 <g:mpn>ST516.3</g:mpn>
@@ -25,8 +21,27 @@
 <g:image_link>https://icons.iconarchive.com/icons/treetog/junior/128/camera-icon.png</g:image_link>
 <g:price>1,900.00 RUB</g:price>
 <g:condition>new</g:condition>
-<brand>ESTE </brand>
-  
+<brand>ESTE </brand>  
+</item>
+  <item>
+<g:title>Полка ESTE ST516.3</g:title>
+<g:mpn>ST516.3</g:mpn>
+<g:id>11</g:id>
+<g:link>https://dyatkovo.ru/</g:link>
+<g:image_link>https://icons.iconarchive.com/icons/treetog/junior/128/camera-icon.png</g:image_link>
+<g:price>1,900 RUB</g:price>
+<g:condition>new</g:condition>
+<brand>ESTE </brand>  
+</item>
+<item>
+<g:title>Полка ESTE ST516.3</g:title>
+<g:mpn>ST516.3</g:mpn>
+<g:id>11</g:id>
+<g:link>https://dyatkovo.ru/</g:link>
+<g:image_link>https://icons.iconarchive.com/icons/treetog/junior/128/camera-icon.png</g:image_link>
+<g:price>1.900 RUB</g:price>
+<g:condition>new</g:condition>
+<brand>ESTE </brand>  
 </item>
 </channel>
 </rss>
