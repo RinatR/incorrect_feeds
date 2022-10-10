@@ -5,7 +5,7 @@
     <company>ООО "Магазин"</company>
     <url>https://www.example.com</url>
     <currencies>
-            <currency id="TR" rate="1"/>
+            <currency id="RUB" rate="1"/>
         </currencies>
     
     <categories>
@@ -18,7 +18,7 @@
             <url>https://mail.ru</url>
             <price>30203.22</price>
             <old_price>1,22</old_price>
-            <currencyId>TR</currencyId>            
+            <currencyId>RUB</currencyId>            
             <categoryId>2</categoryId>
             <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
             <typePrefix>кондиционер</typePrefix>
@@ -34,7 +34,7 @@
             <url>https://mail.ru</url>
             <price>30203</price>
             <old_price>100</old_price>
-            <currencyId>TR</currencyId>
+            <currencyId>RUB</currencyId>
             <categoryId>2</categoryId>
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
@@ -53,7 +53,7 @@
             <url>https://mail.ru</url>
             <price>30203,22</price>
             <old_price>100</old_price>
-            <currencyId>AUD</currencyId>
+            <currencyId>BYN</currencyId>
             <categoryId>2</categoryId>
             <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.docx</picture>
             <typePrefix>КОНДИЦИОНЕР</typePrefix>
