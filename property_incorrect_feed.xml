@@ -25,6 +25,8 @@
 <year_built>2014</year_built>
 <android_tracking_url> http://app.weborama.com/id1507091602?af_c_id={{campaign_id}}</android_tracking_url>
 <ios_tracking_url> http://app.weborama.com/id1507091602?af_c_id={{campaign_id}}</ios_tracking_url>
+ <ios_url>	//https://goldapple.ru/11139-19000031523-black-coconut#sku%3D10023300005<ios_url>
+  <android_url>	://https://goldapple.ru/11139-19000031523-black-coconut#sku%3D10023300005<android_url>
 </item>
 
 
@@ -51,6 +53,8 @@
 <year_built>2014</year_built>
  <android_tracking_url> http://app.appsflyer.com/id1507091602?af_c_id={{campaign_id}}</android_tracking_url>
 <ios_tracking_url> http://app.appsflyer.com/id1507091602?af_c_id={{campaign_id}}</ios_tracking_url>
+ <ios_url>	goldapple://https://goldapple.ru/11139-19000031523-black-coconut#sku%3D10023300005<ios_url>
+  <android_url>	gold://https://goldapple.ru/11139-19000031523-black-coconut#sku%3D10023300005<android_url>
 </item>
 
 </channel>
