@@ -2,11 +2,10 @@
 <title>example.com Feed</title>
 <link rel="self" href="http://www.example.com"/>
 <item>
-
 <id>1</id>
 <title>ЖК Изумрудный город</title>
 <brand>Унистрой</brand>
-<availability>for_sale</availability>
+<availability>false</availability>
 <description>Уютный жилой комплекс в 15 минутах от центра города</description>
 <location>
 <country>Россия</country>
@@ -29,7 +28,7 @@
 <id>2</id>
 <title>ЖК Изумрудный город</title>
 <brand>Унистрой</brand>
-<availability>for_sale</availability>
+<availability>false</availability>
 <description>Уютный жилой комплекс в 15 минутах от центра города</description>
 <location>
 <country>Россия</country>
@@ -49,7 +48,7 @@
 <id>3</id>
 <title>ЖК Изумрудный город</title>
 <brand>Унистрой</brand>
-<availability>for_sale</availability>
+<availability>false</availability>
 <description>Уютный жилой комплекс в 15 минутах от центра города</description>
 <location>
 <country>Россия</country>
@@ -69,7 +68,7 @@
 <id>4</id>
 <title>ЖК Изумрудный город</title>
 <brand>Унистрой</brand>
-<availability>for_sale</availability>
+<availability>false</availability>
 <description>Уютный жилой комплекс в 15 минутах от центра города</description>
 <location>
 <country>Россия</country>
@@ -89,7 +88,7 @@
 <id>5</id>
 <title>ЖК Изумрудный город</title>
 <brand>Унистрой</brand>
-<availability>for_sale</availability>
+<availability>false</availability>
 <description>Уютный жилой комплекс в 15 минутах от центра города</description>
 <location>
 <country>Россия</country>
@@ -109,7 +108,7 @@
 <id>6</id>
 <title>ЖК Изумрудный город</title>
 <brand>Унистрой</brand>
-<availability>for_sale</availability>
+<availability>false</availability>
 <description>Уютный жилой комплекс в 15 минутах от центра города</description>
 <location>
 <country>Россия</country>
@@ -129,7 +128,7 @@
 <id>7</id>
 <title>ЖК Изумрудный город</title>
 <brand>Унистрой</brand>
-<availability>for_sale</availability>
+<availability>false</availability>
 <description>Уютный жилой комплекс в 15 минутах от центра города</description>
 <location>
 <country>Россия</country>
@@ -149,7 +148,7 @@
 <id>8</id>
 <title>ЖК Изумрудный город</title>
 <brand>Унистрой</brand>
-<availability>for_sale</availability>
+<availability>false</availability>
 <description>Уютный жилой комплекс в 15 минутах от центра города</description>
 <location>
 <country>Россия</country>
@@ -169,7 +168,7 @@
 <id>9</id>
 <title>ЖК Изумрудный город</title>
 <brand>Унистрой</brand>
-<availability>for_sale</availability>
+<availability>false</availability>
 <description>Уютный жилой комплекс в 15 минутах от центра города</description>
 <location>
 <country>Россия</country>
