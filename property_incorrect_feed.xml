@@ -1,66 +1,9 @@
 <channel>
 <title>example.com Feed</title>
 <link rel="self" href="http://www.example.com"/>
-<item>
-<id>2</id>
-<title>ЖК Изумрудный город</title>
-<brand>Унистрой</brand>
-<availability>false</availability>
-<description>Уютный жилой комплекс в 15 минутах от центра города</description>
-<location>
-<country>Россия</country>
-<region>Республика Татарстан</region>
-<locality>Казань</locality>
-<address>Рихарда Зорге 66Д </address>
-</location>
-<image_link>//image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
-<additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>
-<num_rooms>2</num_rooms>
-<price>6000000 RUB</price>
-<property_type>бугагагагаг</property_type>
-<link>://www.example.com/link_to_listing</link>
-<year_built>2014</year_built>
-</item>
-<item>
-<id>3</id>
-<title>ЖК Изумрудный город</title>
-<brand>Унистрой</brand>
-<availability>false</availability>
-<description>Уютный жилой комплекс в 15 минутах от центра города</description>
-<location>
-<country>Россия</country>
-<region>Республика Татарстан</region>
-<locality>Казань</locality>
-<address>Рихарда Зорге 66Д </address>
-</location>
-<image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
-<additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>
-<num_rooms>2</num_rooms>
-<price>6000000 RUB</price>
-<property_type>apartment</property_type>
-<link>http://www.example.com/link_to_listing</link>
-<year_built>2014</year_built>
-</item>
-<item>
-<id>4</id>
-<title>ЖК Изумрудный город</title>
-<brand>Унистрой</brand>
-<availability>false</availability>
-<description>Уютный жилой комплекс в 15 минутах от центра города</description>
-<location>
-<country>Россия</country>
-<region>Республика Татарстан</region>
-<locality>Казань</locality>
-<address>Рихарда Зорге 66Д </address>
-</location>
-<image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
-<additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>
-<num_rooms>2</num_rooms>
-<price>6000000 RUB</price>
-<property_type>бугагага</property_type>
-<link>http://www.example.com/link_to_listing</link>
-<year_built>2014</year_built>
-</item>
+
+
+
 <item>
 <id>5</id>
 <title>ЖК Изумрудный город</title>
@@ -81,61 +24,7 @@
 <link>http://www.example.com/link_to_listing</link>
 <year_built>2014</year_built>
 </item>
-<item>
-<id>6</id>
-<title>ЖК Изумрудный город</title>
-<brand>Унистрой</brand>
-<availability>false</availability>
-<description>Уютный жилой комплекс в 15 минутах от центра города</description>
-<location>
-<country>Россия</country>
-<region>Республика Татарстан</region>
-<locality>Казань</locality>
-<address>Рихарда Зорге 66Д </address>
-</location>
-<image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
-<additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>
-<num_rooms>2</num_rooms>
-<price>6000000 RUB</price>
-<property_type>apartment</property_type>
-<link>http://www.example.com/link_to_listing</link>
-<year_built>2014</year_built>
-</item>
-<item>
-<id>7</id>
-<title>ЖК Изумрудный город</title>
-<brand>Унистрой</brand>
-<availability>false</availability>
-<description>Уютный жилой комплекс в 15 минутах от центра города</description>
-<location>
-<country>Россия</country>
-<region>Республика Татарстан</region>
-<locality>Казань</locality>
-<address>Рихарда Зорге 66Д </address>
-  <metro>Проспект Победы
-                   <time-on-foot>Уютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра города</time-on-foot>
-                <time-on-transport>Уютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра города</time-on-transport>
-            </metro> 
-</location>
-<image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
-<additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>
-<num_rooms>2</num_rooms>
-<price>6000000 RUB</price>
-<property_type>apartment</property_type>
-<link>http://www.example.com/link_to_listing</link>
-<year_built>2014</year_built>
-</item>
-<item>
-<id>8</id>
-<title>ЖК Изумрудный город</title>
-<brand>Унистрой</brand>
-<availability>false</availability>
-<description>Уютный жилой комплекс в 15 минутах от центра города</description>
-<location>
-<country>Россия</country>
-<region>Республика Татарстан</region>
-<locality>Казань</locality>
-<address>Рихарда Зорге 66Д </address>
+
   <metro>Проспект Победы
                    <time-on-foot>Уютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра города</time-on-foot>
                 <time-on-transport>Уютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра городаУютный жилой комплекс в 15 минутах от центра города</time-on-transport>
@@ -168,6 +57,8 @@
 <property_type>apartment</property_type>
 <link>http://www.example.com/link_to_listing</link>
 <year_built>2014</year_built>
+ <android_tracking_url> //app.appsflyer.com/id1507091602?af_c_id={{campaign_id}}&af_adset_id={{banner_id}}&af_prt=mobihunter&pid=mail.ru_int</android_tracking_url>
+<ios_tracking_url> //app.appsflyer.com/id1507091602?af_c_id={{campaign_id}}&af_adset_id={{banner_id}}&af_prt=mobihunter&pid=mail.ru_int</ios_tracking_url>
 </item>
 
 </channel>
