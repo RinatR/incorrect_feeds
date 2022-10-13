@@ -35,9 +35,10 @@
 </location>
 <exterior_color>White</exterior_color>
 <state_of_vehicle>New</state_of_vehicle>
-<android_url>ozon://product/1 </android_url>
-		
+<android_url>ozon://product/1 </android_url>		
 <ios_url>ozon://product/1 </ios_url>
+<android_tracking_url> https://app.appsflyer.com/id1507091602?af_c_id={{campaign_id}}</android_tracking_url>
+<ios_tracking_url> https://app.mediasniper.com/id1507091602?af_c_id={{campaign_id}}</ios_tracking_url>
 </item>
 		<item>
 <id>9</id>
@@ -86,6 +87,8 @@
 
 <exterior_color>White</exterior_color>
 <state_of_vehicle>New</state_of_vehicle>
+<android_tracking_url> ://app.appsflyer.com/id1507091602?af_c_id={{campaign_id}}</android_tracking_url>
+<ios_tracking_url> ://app.mediasniper.com/id1507091602?af_c_id={{campaign_id}}</ios_tracking_url>
 </item>
 
 </channel>
