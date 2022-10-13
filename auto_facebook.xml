@@ -5,7 +5,7 @@
 		<id>10</id>
 		<title>volvo</title>
 		<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum </description>
-		<link>https://www.example.com/car-1234></link>
+		<link>://www.example.com/car-1234></link>
 		<brand>Volvo</brand>
 		<image_link>https://images.drive.ru/i/0/5ea2cf26ec05c4e76a00000e.jpg</image_link>
 		<additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>
@@ -19,8 +19,8 @@
 		<body_style>OTHER</body_style>
 		<fuel_type>Gasoline</fuel_type>
 		<transmission>Manual</transmission>
+		<price>200,00.00 BYN</price>
 		
-		<sale_price>1000 USD </sale_price>
                
 		<location>
 			<address>3-я улица Строителей, 55</address>
@@ -37,7 +37,7 @@
 		<description>Adjustable Steering Column, Adjustable Steering Wheel, Air Ba </description>
 		<link>https://www.example.com/car-1234></link>
 		<brand>Volvo</brand>
-		<image_link>https://images.drive.ru/i/0/5ea2cf26ec05c4e76a00000e.jpg</image_link>
+		<image_link>://images.drive.ru/i/0/5ea2cf26ec05c4e76a00000e.jpg</image_link>
 		<additional_image_link>https://www.example.com/1234/image_2.jpg </additional_image_link>
 		<model>XC-90</model>
 		<year>2015</year>
@@ -49,8 +49,8 @@
 		<body_style>OTHER</body_style>
 		<fuel_type>Gasoline</fuel_type>
 		<transmission>Manual</transmission>
-		<price>2000000 TR</price>
-		<max_price>1000 TR</max_price>
+		<price>2000000 USD</price>
+		
 		<location>
 			<address>3-я улица Строителей, 55</address>
 			<locality>Санкт-Петербург</locality>
