@@ -22,8 +22,8 @@
 <transmission>Manual</transmission>
 <exterior_color>White</exterior_color>
 <state_of_vehicle>New</state_of_vehicle>
-<android_tracking_url> https://app.appsflyer.com/id1507091602?af_c_id={{campaign_id}}&amp;af_dp=%3A%2F%2sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
-<ios_tracking_url> https://app.appsflyer.com/id1507091602?af_c_id={{campaign_id}}&amp;af_dp=%3A%2F%2sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
+<android_tracking_url> https://app.appsflyer.com/id1507091602?af_c_id={{campaign_id}}&amp;af_dp=%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
+<ios_tracking_url> https://app.appsflyer.com/id1507091602?af_c_id={{campaign_id}}&amp;af_dp=%2F%2sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
 	<availability>sdkhkhskdfhskh</availability>
 </item>
 
