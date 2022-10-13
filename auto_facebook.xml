@@ -57,7 +57,7 @@
 <body_style>OTHER</body_style>
 <fuel_type>Gasoline</fuel_type>
 <transmission>Manual</transmission>
-<price>2000000 RUB</price>
+
 			<min_price>100,500 </min_price>
 
 <exterior_color>White</exterior_color>
