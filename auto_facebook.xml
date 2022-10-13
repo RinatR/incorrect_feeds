@@ -20,6 +20,8 @@
 		<fuel_type>Gasoline</fuel_type>
 		<transmission>Manual</transmission>
 		<price>2000000 RUB</price>
+		<sale_price>1000 USD </sale_price>
+               
 		<location>
 			<address>3-я улица Строителей, 55</address>
 			<locality>Санкт-Петербург</locality>
@@ -48,6 +50,7 @@
 		<fuel_type>Gasoline</fuel_type>
 		<transmission>Manual</transmission>
 		<price>2000000 RUB</price>
+		<min_price>1000 TR</min_price>
 		<location>
 			<address>3-я улица Строителей, 55</address>
 			<locality>Санкт-Петербург</locality>
@@ -59,7 +62,7 @@
 	</item>
 	<item>
 		<id>1</id>
-		<title>Volvo XC-90</title>
+		<title>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</title>
 		<description>Adjustable Steering Column, Adjustable Steering Wheel, Air Ba </description>
 		<link>https://www.example.com/car-1234></link>
 		
@@ -75,7 +78,7 @@
 		<body_style>OTHER</body_style>
 		<fuel_type>Gasoline</fuel_type>
 		<transmission>Manual</transmission>
-		<price>2000000 RUB</price>
+		<price>2000000 GBP</price>
 		<location>
 			<address>3-я улица Строителей, 55</address>
 			<locality>Санкт-Петербург</locality>
@@ -159,7 +162,7 @@
 		<body_style>OTHER</body_style>
 		<fuel_type>Gasoline</fuel_type>
 		<transmission>Manual</transmission>
-		<price>2000000 RUB</price>
+		<price>200,00,00 RUB</price>
 		<location>
 			<address>3-я улица Строителей, 55</address>
 			<locality>Санкт-Петербург</locality>
