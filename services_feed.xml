@@ -5,7 +5,7 @@
 
 <title>Борисова Наталья Вячеславовна</title>
 <description>Стаж 40 лет Врач высшей категории Доктор медицинских наук</description>
-<link>https://www.example.com/car-1234></link>
+<link>://www.example.com/car-1234></link>
 <brand>Клиника Семейной Медицины </brand>
 <location>
 <address>Рихарда Зорге 66в</address>
@@ -26,7 +26,7 @@
 <rating>5</rating>
 
 <product_type>Врачи>Кардиологи </product_type>
-<image_link>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</image_link>
+<image_link>://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</image_link>
 </item>
 <item>
 <id>1</id>
