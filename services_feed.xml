@@ -18,7 +18,7 @@
       <time-on-transport>5</time-on-transport>
     </metro>
   </location>
-  <price>100,33 RUB </price>
+  <price>RUB</price>
   <sale_price>800 RUB</sale_price>  
   <phone>+7 495 479 1234 </phone>
   <rating>5</rating>
@@ -32,7 +32,7 @@
   <link>https://www.yandex.ru/car-1234></link>
   <brand>Клиника Семейной Медицины </brand>
   
-  <price>1000 RUB </price>
+  <price></price>
   <phone>+7 495 479 1234 </phone>
   <rating>5</rating>
   <worker_type>juridical</worker_type>
