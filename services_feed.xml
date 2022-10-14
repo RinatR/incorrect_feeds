@@ -41,7 +41,9 @@
       <time-on-transport>5</time-on-transport>
     </metro>
   </location>   
-  <price>100,500.22 RUB </price>
+  <price>100 RUB </price>
+    <min_price>100 JPY </min_price>
+   <max_price>100 JPY </max_price>
   <phone>+7 495 479 1234 </phone>
   <rating>5</rating>
   <product_type>Врачи>Кардиологи </product_type>
