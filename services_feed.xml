@@ -42,6 +42,7 @@
     </metro>
   </location>   
   <price>100 JPY </price>
+   <sale_price>100 JPY </sale_price>
     <min_price>100 JPY </min_price>
    <max_price>100 JPY </max_price>
   <phone>+7 495 479 1234 </phone>
