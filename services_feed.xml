@@ -40,7 +40,7 @@
   <image_link>http://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</image_link>
   <android_url>ozon://product/1</android_url>
    <ios_url>ozon://product/1</ios_url>
-  <android_tracking_url>https://app.appsflyer.com</android_tracking_url>
-  <ios_tracking_url>https://app.rambler.com</ios_tracking_url>
+  <android_tracking_url>app.appsflyer.com</android_tracking_url>
+  <ios_tracking_url>//app.rambler.com</ios_tracking_url>
 </item>
 </channel>
