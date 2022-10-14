@@ -2,7 +2,7 @@
 <title>example.com Feed</title>
 <link rel="self" href="http://www.example.com"/>
 <item>
-
+<id>1</id>
 <title>ААААААААА</title>
 <description>ББББББББББББББББББББББББББ</description>
 <link>://www.example.com/car-1234></link>
@@ -24,7 +24,6 @@
 <max_price>1000 BYN </max_price>
 <phone>+7 495 479 1234 </phone>
 <rating>5</rating>
-
 <product_type>Врачи>Кардиологи </product_type>
 <image_link>://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</image_link>
 </item>
@@ -81,11 +80,8 @@
 <image_link>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</image_link>
 </item>
 <item>
-<id>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpghttps://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpghttps://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</id>
-
+<id>4</id>
 <description>Стаж 40 лет Врач высшей категории Доктор медицинских наук</description>
-
-
 <location>
 <address>Рихарда Зорге 66в</address>
 <locality>Казань</locality>
@@ -97,7 +93,6 @@
 <time-on-transport>5</time-on-transport>
 </metro>
 </location>
-
 <sale_price>800 RUB</sale_price>
 <phone>+7 495 479 1234 </phone>
 <rating>5</rating>
