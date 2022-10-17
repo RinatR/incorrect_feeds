@@ -30,7 +30,7 @@
             <ios_app_store_id>100500</ios_app_store_id>
             
         </offer>
-        <offer id="3" available="true" type="vendor.model">
+        <offer id="2" available="true" type="vendor.model">
             <url>https://mail.ru</url>
             <price>30203</price>
             <old_price>100</old_price>
@@ -49,7 +49,7 @@
             <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
             <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
         </offer>
-        <offer id="4" available="true" type="vendor.model">
+        <offer id="2" available="true" type="vendor.model">
             <url>https://mail.ru</url>
             <price>30203,22</price>
             <old_price>100</old_price>
@@ -66,7 +66,7 @@
             <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
             <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
         </offer>
-        <offer id="5" available="true" type="vendor.model">
+        <offer id="2" available="true" type="vendor.model">
             <url>https://mail.ru</url>
             <price>30203</price>
             <currencyId>RUR</currencyId>
@@ -82,7 +82,7 @@
             <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
             <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
         </offer>
-        <offer id="6" available="true" type="vendor.model">
+        <offer id="2" available="true" type="vendor.model">
             <url>https://mail.ru</url>
             <price>30203</price>
             <currencyId>RUR</currencyId>
@@ -98,7 +98,7 @@
             <android_tracking_url>https://abc.mail.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
             <ios_tracking_url>https://abc.mail.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
         </offer>
-        <offer id="7" available="true" type="vendor.model">
+        <offer id="2" available="true" type="vendor.model">
             <url>https://www.yandex.ru</url>
             <price>30203</price>
             <currencyId>RUR</currencyId>
@@ -114,7 +114,7 @@
             <android_tracking_url>https://abc.yandex.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
             <ios_tracking_url>https://abc.yandex.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
         </offer>
-        <offer id="8" available="true" type="vendor.model">
+        <offer id="2" available="true" type="vendor.model">
             <url>https://www.yandex.ru</url>
             <price>30203</price>
             <currencyId>RUR</currencyId>
