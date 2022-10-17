@@ -13,12 +13,11 @@
         <category id="2" parentId="1">Настенные кондиционеры</category>
     </categories>
     <offers>
-
         <offer id="2" available="true" type="vendor.model">
             <url>https://mail.ru</url>
             <price>30203.22</price>
             <old_price>1,22</old_price>
-            <currencyId>RUB</currencyId>            
+            <currencyId>BYN</currencyId>            
             <categoryId>2</categoryId>
             <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
             <typePrefix>кондиционер</typePrefix>
@@ -34,14 +33,12 @@
             <url>https://mail.ru</url>
             <price>30203</price>
             <old_price>100</old_price>
-            <currencyId>RUB</currencyId>
+            <currencyId>BYN</currencyId>
             <categoryId>2</categoryId>
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
-            <model>Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться. Lorem Ipsum используют потому, что тот обеспечивает более или менее стандартное заполнение шаблона, а также реальное распределение букв и пробелов в абзацах, которое не получается при простой дубликации "Здесь ваш текст.. Здесь ваш текст.. Здесь ваш текст.." Многие программы электронной вёрстки и редакторы HTML используют Lorem Ipsum в качестве текста по умолчанию, так что поиск по ключевым словам "lorem ipsum" сразу показывает, как много веб-страниц всё ещё дожидаются своего настоящего рождения. За прошедшие годы текст Lorem Ipsum получил много версий. Некоторые версии появились по ошибке, некоторые - намеренно (например, юмористические варианты).
-
-</model>
+            <model>Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться</model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
@@ -66,70 +63,7 @@
             <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
             <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
         </offer>
-        <offer id="2" available="true" type="vendor.model">
-            <url>https://mail.ru</url>
-            <price>30203</price>
-            <currencyId>RUR</currencyId>
-            <categoryId>2</categoryId>
-            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
-            <typePrefix>Кондиционер</typePrefix>
-            <vendor>LG</vendor>
-            <model>LS-H0893</model>
-            <android_url>myapp://product?article=100001 </android_url>
-            <ios_url>myapp://product?article=100001 </ios_url>
-            <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
-        </offer>
-        <offer id="2" available="true" type="vendor.model">
-            <url>https://mail.ru</url>
-            <price>30203</price>
-            <currencyId>RUR</currencyId>
-            <categoryId>2</categoryId>
-            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
-            <typePrefix>Кондиционер</typePrefix>
-            <vendor>LG</vendor>
-            <model>LS-H0893</model>
-            <android_url>myapp://product?article=100001 </android_url>
-            <ios_url>myapp://product?article=100001 </ios_url>
-            <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.mail.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.mail.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
-        </offer>
-        <offer id="2" available="true" type="vendor.model">
-            <url>https://www.yandex.ru</url>
-            <price>30203</price>
-            <currencyId>RUR</currencyId>
-            <categoryId>2</categoryId>
-            <picture>https://icons.iconarchive.com/icons/treetog/junior/128/camera-icons.png</picture>
-            <typePrefix>Кондиционер</typePrefix>
-            <vendor>LG</vendor>
-            <model>LS-H0893</model>
-            <android_url>myapp://product?article=100001 </android_url>
-            <ios_url>myapp://product?article=100001 </ios_url>
-            <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.yandex.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.yandex.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
-        </offer>
-        <offer id="2" available="true" type="vendor.model">
-            <url>https://www.yandex.ru</url>
-            <price>30203</price>
-            <currencyId>RUR</currencyId>
-            <categoryId>2</categoryId>
-            <picture>https://0.db-estate.cdn.pik-service.ru/layout/2022/07/12/105_saBskm2n52uJ2PqB.png</picture>
-            <typePrefix>Кондиционер</typePrefix>
-            <vendor>LG</vendor>
-            <model>LS-H0893</model>
-            <android_url>myapp://product?article=100001 </android_url>
-            <ios_url>myapp://product?article=100001 </ios_url>
-            <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
-        </offer>
+ 
     </offers>
 </shop>
 </torg_price>
