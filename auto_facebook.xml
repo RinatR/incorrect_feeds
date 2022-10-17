@@ -1,41 +1,32 @@
 <channel>
-	<title>Sample Vehicles Feed</title>
-	<link rel="self" href="https://www.example.com/dealers/cars/1234/?r=vddn"/>
+<title>Sample Vehicles Feed</title>
+<link rel="self" href="https://www.example.com/dealers/cars/1234/?r=vddn"/>
 
 <item>
-<g:material>Серебро</g:material>
-<g:color>Розовый</g:color>
-<g:custom_label_0>Кубический цирконий</g:custom_label_0>
-<g:custom_label_4>silver or cheap</g:custom_label_4>
 <link>https://sunlight.net/catalog/ring_253112.html</link>
-<applink property="ios_url" content="sunlight://product?article=253112"/>
-<applink property="ios_app_store_id" content="1068913968"/>
-<applink property="ios_app_name" content="SUNLIGHT Ювелирный Гипермаркет"/>
-<applink property="android_url" content="sunlight://product?article=253112"/>
-<applink property="android_package" content="ru.sunlight.sunlight"/>
-<applink property="android_app_name" content="SUNLIGHT Ювелирный Гипермаркет"/>
-<g:mobile_android_app_link>sunlight://product?article=253112</g:mobile_android_app_link>
-<g:mobile_ios_app_link>sunlight://product?article=253112</g:mobile_ios_app_link>
-<g:mobile_ios_app_store_id>1068913968</g:mobile_ios_app_store_id>
-<g:id>253112</g:id>
-<g:gender>male</g:gender>
-<g:description>Кольцо, вставка: куб. цирконий; Серебро 925 пробы. Подвид: перстень. Повод: на праздник, в подарок. Цвет материала: розовый. Цвет вставки: красный, белый. Материал: серебро. Дизайн украшения: дорожка+солитер. Для кого: для любимого, для коллеги, для мужа. Тип огранки: круглая. Форма вставки: круглая. Стиль: классический. Вставка: кубический цирконий.</g:description>
-<g:product_type>Предметы одежды и принадлежности &gt; Ювелирные украшения &gt; Кольца</g:product_type>
+
+<mobile_android_app_link>sunlight://product?article=253112</mobile_android_app_link>
+<mobile_ios_app_link>sunlight://product?article=253112</mobile_ios_app_link>
+<mobile_ios_app_store_id>1068913968</mobile_ios_app_store_id>
+<id>253112</id>
+<gender>male</gender>
+<description>Кольцо, вставка: куб. цирконий; Серебро 925 пробы. Подвид: перстень. Повод: на праздник, в подарок. Цвет материала: розовый. Цвет вставки: красный, белый. Материал: серебро. Дизайн украшения: дорожка+солитер. Для кого: для любимого, для коллеги, для мужа. Тип огранки: круглая. Форма вставки: круглая. Стиль: классический. Вставка: кубический цирконий.</description>
+<product_type>Предметы одежды и принадлежности &gt; Ювелирные украшения &gt; Кольца</product_type>
 <title>Серебряное кольцо с кубическим цирконием ZOLOTYE UZORY (модель 94-01-0923-04)</title>
-<g:google_product_category>200</g:google_product_category>
-<g:image_link>https://g9.sunlight.net/media/products/06c10f93fb122b6f02133a0314b24460b258746e.jpg</g:image_link>
-<g:availability>in stock</g:availability>
-<g:price>5980 RUB</g:price>
-<g:sale_price>2990 RUB</g:sale_price>
-<g:sale_price_effective_date>2022-10-12T00:00:00/2022-10-29T00:00:00</g:sale_price_effective_date>
-<g:brand>ZOLOTYE UZORY</g:brand>
-<g:condition>new</g:condition>
-<g:shipping>
-<g:country>RU</g:country>
-<g:service>Курьеская доставка</g:service>
-<g:price>0 RUB</g:price>
-</g:shipping>
-<g:android_app_link>ru.sunlight.sunlight</g:android_app_link>
+<google_product_category>200</google_product_category>
+<image_link>https://g9.sunlight.net/media/products/06c10f93fb122b6f02133a0314b24460b258746e.jpg</image_link>
+<availability>in stock</availability>
+<price>5980 RUB</price>
+<sale_price>2990 RUB</sale_price>
+<sale_price_effective_date>2022-10-12T00:00:00/2022-10-29T00:00:00</sale_price_effective_date>
+<brand>ZOLOTYE UZORY</brand>
+<condition>new</condition>
+<shipping>
+<country>RU</country>
+<service>Курьеская доставка</service>
+<price>0 RUB</price>
+</shipping>
+<android_app_link>ru.sunlight.sunlight</android_app_link>
 <android_tracking_url>https://sunlight.onelink.me/7Icd?pid=mail.ru_int&amp;af_dp=sunlight%3A%2F%2Fproduct%3Farticle%3D253112&amp;c=%7B%7Bcampaign_id%7D%7D</android_tracking_url>
 <ios_tracking_url>https://sunlight.onelink.me/7Icd?pid=mail.ru_int&amp;af_dp=sunlight%3A%2F%2Fproduct%3Farticle%3D253112&amp;c=%7B%7Bcampaign_id%7D%7D</ios_tracking_url>
 </item>
