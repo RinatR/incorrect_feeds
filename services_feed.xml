@@ -6,25 +6,13 @@
   <title>Aаа</title>
   <description>AAA</description>
   <link>https://www.shoppinglive.ru</link>
-  <brand>Клиника Семейной Медицины </brand>    
-  <sale_price>10022 RUR </sale_price>
-  <phone>+7 495 479 1234 </phone>
-  <rating>5</rating>
-  <product_type>Врачи>Кардиологи </product_type>
-  <image_link>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</image_link>
-</item>
- <item>
-  <id>999</id>
-  <title>Aаа</title>
-  <description>Aаа</description>
-  <link>https://www.mail.ru</link>
-  <brand>Клиника Семейной Медицины </brand>
-     
+  <brand>Клиника Семейной Медицины </brand> 
   <price>100 RUB </price>
-   
+    <sale_price>10022 AUD </sale_price>
   <phone>+7 495 479 1234 </phone>
   <rating>5</rating>
   <product_type>Врачи>Кардиологи </product_type>
   <image_link>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</image_link>
 </item>
+
 </channel>
