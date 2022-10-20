@@ -13,6 +13,8 @@
 <max_price>4567,22.00 GBP</max_price>
 <g:condition>new</g:condition>
 <brand>ESTE </brand>
+<ios_url>ozon://product/1</ios_url>
+<android_url>bozon://product/1</android_url>
 </item>
 </channel>
 </rss>
