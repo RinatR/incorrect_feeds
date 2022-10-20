@@ -13,11 +13,10 @@
         <category id="2" parentId="1">Настенные кондиционеры</category>
     </categories>
     <offers>
-        <offer id="2" available="true" type="vendor.model">
+        <offer id="1" available="true" type="vendor.model">
             <url>https://mail.ru</url>
-            <price>30203.22</price>
-            <oldprice>1,22</oldprice>
-            <currencyId>BYN</currencyId>            
+            <price>30203,22.00</price>
+            <currencyId>GBP</currencyId>            
             <categoryId>2</categoryId>
             <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
             <typePrefix>кондиционер</typePrefix>
@@ -43,10 +42,10 @@
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
             <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
+            <android_tracking_url>https://abc.weborama.st/adjust_t=dsfdsfsd </android_tracking_url>
+            <ios_tracking_url>https://abc.weborama.st/adjust_t=dsfdsfsd&amp </ios_tracking_url>
         </offer>
-        <offer id="2" available="true" type="vendor.model">
+        <offer id="3" available="true" type="vendor.model">
             <url>https://mail.ru</url>
             <price>30203,22</price>
             <oldprice>100</oldprice>
