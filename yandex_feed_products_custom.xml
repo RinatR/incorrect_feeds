@@ -15,7 +15,7 @@
     <offers>
         <offer id="1" available="true" type="vendor.model">
             <url>https://mail.ru</url>
-            <price>30203,22.00</price>
+            <price>30203.22.00</price>
             <currencyId>GBP</currencyId>            
             <categoryId>2</categoryId>
             <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
