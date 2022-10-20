@@ -28,7 +28,7 @@
             <ios_app_store_id>100500</ios_app_store_id>
             
         </offer>
-        <offer id=2 available="true" type="vendor.model">
+        <offer id="2" available="true" type="vendor.model">
             <url>https://mail.ru</url>
             <price>30203</price>
             <oldprice>100</oldprice>
