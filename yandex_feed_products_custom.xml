@@ -21,12 +21,11 @@
             <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
             <typePrefix>кондиционер</typePrefix>
             <vendor>lg</vendor>
-            <model>lsmodel</model>
+            <model>model</model>
             <android_url>http://product?article=100001 </android_url>
             <ios_url>http://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
             <ios_app_store_id>100500</ios_app_store_id>
-            <description>"LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUD EXERCITATION ULLAMCO LABORIS NISI UT ALIQUIP EX EA COMMODO CONSEQUAT. DUIS AUTE IRURE DOLOR IN REPREHENDERIT IN VOLUPTATE VELIT ESSE CILLUM DOLORE EU FUGIAT NULLA PARIATUR. EXCEPTEUR SINT OCCAECAT CUPIDATAT NON PROIDENT, SUNT IN CULPA QUI OFFICIA DESERUNT MOLLIT ANIM ID EST LABORUM</description>
         </offer>
         <offer id="2" available="true" type="vendor.model">
             <url>https://mail.ru</url>
