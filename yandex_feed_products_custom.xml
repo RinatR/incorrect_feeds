@@ -35,9 +35,7 @@
             <currencyId>BYN</currencyId>
             <categoryId>23</categoryId>
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
-            <typePrefix>Кондиционер</typePrefix>
-            <vendor>LG</vendor>
-            <model>Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться</model>
+            <name>Кондиционер Jax 322223</name>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
