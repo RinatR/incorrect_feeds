@@ -13,15 +13,16 @@
         <category id="2" parentId="1">Настенные кондиционеры</category>
     </categories>
     <offers>
-        <offer id="1" available="true" type="vendor.model">
+        <offer id="1" available="true">
             <url>https://mail.ru</url>
-            <price>30203.22.00</price>
+            <price>30203</price>
             <currencyId>RUR</currencyId>   
             <categoryId>22</categoryId>
             <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
+            <name>Кондиционер Jax 322223</name>
             <typePrefix>кондиционер</typePrefix>
             <vendor>lg</vendor>
-            <model>model</model>
+            <model>100500</model>
             <android_url>http://product?article=100001 </android_url>
             <ios_url>http://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
@@ -46,7 +47,7 @@
         </offer>
         <offer id="3" available="true" type="vendor.model">
             <url>https://mail.ru</url>
-            <price>30203,22</price>
+            <price>30203</price>
             <oldprice>100</oldprice>
             <currencyId>BYN</currencyId>
             <categoryId>24</categoryId>
