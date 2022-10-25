@@ -13,36 +13,6 @@
         <category id="2" parentId="1">Настенные кондиционеры</category>
     </categories>
     <offers>
-        <offer id="1" available="true">
-            <url>https://mail.ru</url>
-            <price>30203</price>
-            <currencyId>RUR</currencyId>   
-            <categoryId>22</categoryId>
-            <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
-            <name>Кондиционер Jax 322223</name>
-            <typePrefix>кондиционер</typePrefix>
-            <vendor>lg</vendor>
-            <model>100500</model>
-            <android_url>http://product?article=100001 </android_url>
-            <ios_url>http://product?article=100001 </ios_url>
-            <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-        </offer>
-        <offer id="2" available="true">
-            <url>https://mail.ru</url>
-            <price>30203</price>
-            <oldprice>100</oldprice>
-            <currencyId>BYN</currencyId>
-            <categoryId>23</categoryId>
-            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
-            <name>Кондиционер Jax 322223</name>
-            <android_url>myapp://product?article=100001 </android_url>
-            <ios_url>myapp://product?article=100001 </ios_url>
-            <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.weborama.st/adjust_t=dsfdsfsd </android_tracking_url>
-            <ios_tracking_url>https://abc.weborama.st/adjust_t=dsfdsfsd </ios_tracking_url>
-        </offer>
         <offer id="3" available="true" type="vendor.model">
             <url>https://mail.ru</url>
             <price>30203</price>
@@ -50,9 +20,9 @@
             <currencyId>BYN</currencyId>
             <categoryId>24</categoryId>
             <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
-            <typePrefix>КОНДИЦИОНЕР</typePrefix>
+            <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
-            <model>LS-H0893</model>
+            <model>100500</model>
             <android_url>app://product?article=100001 </android_url>
             <ios_url>app://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
