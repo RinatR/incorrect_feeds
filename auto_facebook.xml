@@ -33,5 +33,6 @@
     <exterior_color>White</exterior_color>
     <state_of_vehicle>Новый</state_of_vehicle>
     <availability>в наличии</availability>
+    <vehicle_type>автомобиль</vehicle_type>
       </item>
 </channel>
