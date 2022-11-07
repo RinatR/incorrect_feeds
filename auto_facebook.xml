@@ -17,7 +17,7 @@
       <unit>KM</unit>
     </mileage>
     <vin>1A2BCDEF3GH456789</vin>
-    <body_style>кабриолет</body_style>
+    <body_style>купе-хардтоп</body_style>
     <fuel_type>Gasoline</fuel_type>   
     <price>6000000 RUB</price>
     <location>
@@ -31,7 +31,7 @@
     </metro>     
     </location>  
     <exterior_color>White</exterior_color>
-    <state_of_vehicle>Новый</state_of_vehicle>
+    <state_of_vehicle>с пробегом сертифицированный</state_of_vehicle>
     <availability>в наличии</availability>
     <vehicle_type>автомобиль</vehicle_type>
       </item>
