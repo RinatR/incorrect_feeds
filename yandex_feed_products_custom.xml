@@ -23,7 +23,7 @@
             <name>Кондиционер Jax 100500</name>
             <custom_label_0>Настенные кондициоондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционеры</custom_label_0>           
         </offer>
-          <offerid="1" available="true">
+          <offer id="1" available="true">
             <url>https://mail.ru</url>
             <price>30203</price>
             <oldprice>100</oldprice>
