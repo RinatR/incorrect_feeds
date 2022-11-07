@@ -3,8 +3,6 @@
 <link rel="self" href="http://www.example.com"/>
 <item>
   <id>999</id>
-  <android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int&amp;af_dp=sportmaster%3A%2F%2Fproduct%2F26670410299%2F%3Futm_medium%3Dsoc_banner_ret%26utm_source%3Dmail.ru_int</android_tracking_url>
-<ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int&amp;af_dp=sportmaster%3A%2F%2Fproduct%2F26670410299%2F%3Futm_medium%3Dsoc_banner_ret%26utm_source%3Dmail.ru_int</ios_tracking_url>
   <title>Aаа</title>
   <description>AAA</description>
   <link>https://www.shoppinglive.ru</link>
@@ -14,6 +12,7 @@
   <phone>+7 495 479 1234 </phone>
   <rating>5</rating>
   <product_type>Врачи>Кардиологи </product_type>
+  <worker_type>физическое лицо</worker_type>
   <image_link>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</image_link>
 </item>
 
