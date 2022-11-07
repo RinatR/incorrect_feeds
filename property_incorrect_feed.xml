@@ -17,7 +17,7 @@
 <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>
 <num_rooms>2</num_rooms>
 <price>6000000 RUB</price>
-<property_type>квартира</property_type>
+<property_type>дом</property_type>
 <area_size>500</area_size>
 <area_unit>кв.фут</area_unit>
 <link>http://www.example.com/link_to_listing</link>
