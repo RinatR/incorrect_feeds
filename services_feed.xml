@@ -15,5 +15,33 @@
   <worker_type>физическое лицо</worker_type>
   <image_link>https://0.db-estate.cdn.pik-service.ru/layout/2022/07/12/10_mVw5VJRDio4HK5bi.png</image_link>
 </item>
+  <item>
+  <id>998</id>
+  <title>Aаа</title>
+  <description>AAA</description>
+  <link>https://www.shoppinglive.ru</link>
+  <brand>Клиника Семейной Медицины </brand> 
+  <price>100 RUB </price>
+    <sale_price>10022 RUB </sale_price>
+  <phone>+7 495 479 1234 </phone>
+  <rating>5</rating>
+  <product_type>Врачи>Кардиологи </product_type>
+  <worker_type>физическое лицо</worker_type>
+  <image_link>https://cdn-icons-png.flaticon.com/512/108/108732.png</image_link>
+</item>
+    <item>
+  <id>998</id>
+  <title>Aаа</title>
+  <description>AAA</description>
+  <link>https://www.shoppinglive.ru</link>
+  <brand>Клиника Семейной Медицины </brand> 
+  <price>100 RUB </price>
+    <sale_price>10022 RUB </sale_price>
+  <phone>+7 495 479 1234 </phone>
+  <rating>5</rating>
+  <product_type>Врачи>Кардиологи </product_type>
+  <worker_type>физическое лицо</worker_type>
+  <image_link>https://upload.wikimedia.org/wikipedia/commons/6/60/OpenEuphoria_mascot_200px.png</image_link>
+</item>
 
 </channel>
