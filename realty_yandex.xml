@@ -11,13 +11,7 @@
 <locality-name>Москва</locality-name>
 <address>Яузская улица, 27</address>
 <apartment>135</apartment>
-  <built_>
-<metro>
-<name>Китай-город</name>
-<time-on-foot>10</time-on-foot>
-<time-on-transport>5</time-on-transport>
-</metro>
-</location>
+ </location>
 <price>
 <value>400,00.00</value>
 <currency>RUR</currency>
