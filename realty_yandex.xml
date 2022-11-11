@@ -1,45 +1,7 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
 <generation-date>2010-12-11T12:00:00+04:00</generation-date>
-<!--  Квартира на вторичном рынке  -->
-<offer internal-id="12">
-<type>продажа</type>
-<property-type>жилая</property-type>
-<category>квартира</category>
-<location>
-<country>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</country>
-<region>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</region>
-<locality-name>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</locality-name>
-<address>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</address>
-<apartment>135</apartment>
-<metro>
-<name>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</name>
-<time-on-foot>fgdgd</time-on-foot>
-<time-on-transport>dgdfgfdg</time-on-transport>
-</metro>
-</location>
-<custom_label_0>Распродажа</custom_label_0>
-<price>
-<value>4000000</value>
-<currency>RUR</currency>
-</price>
-<url>https://realty.ya.ru/moskva_i_moskovskaya_oblast/kupit/novostrojka/molzhaninovo-2890148/</url>
-<image>https://0.db-estate.cdn.pik-service.ru/layout/2022/07/12/10_mVw5VJRDio4HK5bi.png</image>
-<area>
-<value>56</value>
-<unit>кв. м</unit>
-</area>
-<rooms>1.5</rooms>
-<floor>12.5</floor>
-<floors-total>12.5</floors-total>
-<android_url>myapp://product?article=100001 </android_url>
-<ios_url>myapps://product?article=100001 </ios_url>
-<bundle_id>ru.myapp.myapp</bundle_id>
-<ios_app_store_id>100500</ios_app_store_id>
-<android_tracking_url>https://abc.rambler.st/adjust_t=dsfdsfsd</android_tracking_url>
-<ios_tracking_url>https://abc.rambler.st/adjust_t=dsfdsfsd</ios_tracking_url>
-<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-</offer>
+
 <offer internal-id="13">
 <type>продажа</type>
 <property-type>жилая</property-type>
@@ -50,6 +12,7 @@ This XML file does not appear to have any style information associated with it. 
 <locality-name>Москва</locality-name>
 <address>Яузская улица, 27</address>
 <apartment>135</apartment>
+  <built_>
 <metro>
 <name>Китай-город</name>
 <time-on-foot>10</time-on-foot>
@@ -57,14 +20,14 @@ This XML file does not appear to have any style information associated with it. 
 </metro>
 </location>
 <price>
-<value>4000000</value>
+<value>400,00.00</value>
 <currency>RUR</currency>
 </price>
 <url>https://yandex.ru/moskva_i_moskovskaya_oblast/kupit/novostrojka/molzhaninovo-2890148/</url>
 <image>https://cdn-icons-png.flaticon.com/512/108/108732.png</image>
 <area>
 <value>56</value>
-<unit>кв. м</unit>
+<unit>кв.</unit>
 </area>
 <organization>ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg</organization>
 <rooms>1.5</rooms>
