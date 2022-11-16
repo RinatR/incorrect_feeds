@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2022-11-16 12:08">
+	<shop>
+		<name>Hoff: гипермаркет мебели и товаров для дома, интернет-магазин мебели</name>
+		<company>Hoff: гипермаркет мебели и товаров для дома, интернет-магазин мебели</company>
+		<url>https://hoff.ru/?utm_source=YandexMarket&amp;utm_medium=marketplace&amp;utm_campaign=sofa&amp;utm_content=315551</url>
+		<currencies><currency id="RUR" rate="1"></currency></currencies>
+		<categories>
+			<category id="624">Гостиная</category>
+			<category id="633" parentId="624">Диваны</category>
+			<category id="636" parentId="633">Прямые тканевые диваны</category>
+			<category id="637" parentId="633">Прямые кожаные диваны</category>
+			<category id="638" parentId="633">Угловые тканевые диваны</category>
+			<category id="639" parentId="633">Угловые кожаные диваны</category>
+			<category id="625">Спальня</category>
+			<category id="687" parentId="625">Кровати</category>
+			<category id="699" parentId="687">Кровати с подъёмным механизмом</category>
+			<category id="700" parentId="687">Кровати без подъёмного механизма</category>
+			<category id="628">Детская</category>
+			<category id="840" parentId="628">Детские кровати</category>
+			<category id="857" parentId="840">Кровати одноярусные</category>
+			<category id="858" parentId="840">Кровати двухъярусные</category>
+			<category id="688" parentId="625">Матрасы</category>
+			<category id="1531" parentId="688">Матрасы-топперы</category>
+			<category id="702" parentId="688">Пружинные матрасы</category>
+			<category id="703" parentId="688">Беспружинные матрасы</category>
+	 	</categories
+
+		<offers>
+			<offer id="80056537" type="vendor.model" available="true">
+			<url>https://hoff.ru/catalog/kuhnya/kuhonnye_garnitury/planiruemie/kukhonnyy_garnitur_paola_id105420/?articul=80056537</url>
+			<price>115088</price>
+			<oldprice>135399</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>633</categoryId>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056537_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056537_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056537_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056537_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056537_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056537_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056537_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056537_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056537_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056537_t1667315194.9059.jpg</picture>
+			<store>true</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="1599" days="0" order-before="17"/>
+			</delivery-options>
+			<typePrefix>Кухонный гарнитур</typePrefix>
+			<vendor>Hoff</vendor>
+			<model>Паола</model>
+			<description>Материал: корпус - ЛДСП, фасад - МДФ 
+ В стоимость не включено: стеновая панель, бытовая техника, мойка, смеситель, аксессуары. 
+ 
+
+ 
+
+ 
+ 
+
+ Планируемая кухня производится индивидуально по вашему заказу. В программе-проектировщике составляется проект кухни нужных вам размеров, конфигурации и комплектации. Возможно изготовление нестандартных элементов. 
+ 
+ Создать индивидуальное решение и рассчитать его стоимость вам помогут продавцы-консультанты в наших магазинах.</description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>7777800565376</barcode>
+			<param name="Стиль">Модерн</param>
+			<param name="Тип начисления бонусов">2%</param>
+			<param name="Класс товара">Мебель</param>
+			<param name="Коллекция">Паола</param>
+			<param name="Модель продаж">Основной ассортимент</param>
+			</offer>
+			<offer id="80056549" type="vendor.model" available="true">
+			<url>https://hoff.ru/catalog/kuhnya/kuhonnye_garnitury/planiruemie/kukhonnyy_garnitur_rimini_id105422/?articul=80056549</url>
+			<price>120523</price>
+			<oldprice>160699</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>699</categoryId>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056549_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056549_t1667315194.9059.jpg</picture>
+			<store>true</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="1599" days="0" order-before="17"/>
+			</delivery-options>
+			<typePrefix>Кухонный гарнитур</typePrefix>
+			<vendor>Hoff</vendor>
+			<model>Римини</model>
+			<description>Материал: корпус - ЛДСП, фасад - МДФ 
+ В стоимость не включено: стеновая панель, бытовая техника, мойка, смеситель, аксессуары 
+ 
+
+ 
+
+ 
+ 
+
+ Планируемая кухня производится индивидуально по вашему заказу. В программе-проектировщике составляется проект кухни нужных вам размеров, конфигурации и комплектации. Возможно изготовление нестандартных элементов. 
+ 
+ Создать индивидуальное решение и рассчитать его стоимость вам помогут продавцы-консультанты в наших магазинах.</description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>7777800565499</barcode>
+			<param name="Стиль">Модерн</param>
+			<param name="Тип начисления бонусов">2%</param>
+			<param name="Класс товара">Мебель</param>
+			<param name="Коллекция">Римини</param>
+			<param name="Модель продаж">Основной ассортимент</param>
+			</offer>
+			<offer id="80056543" type="vendor.model" available="true">
+			<url>https://hoff.ru/catalog/kuhnya/kuhonnye_garnitury/planiruemie/kukhonnyy_garnitur_spektra_new_id105424/?articul=80056543</url>
+			<price>140843</price>
+			<oldprice>165699</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>840</categoryId>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056543_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056543_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056543_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056543_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056543_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056543_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056543_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056543_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056543_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056543_t1667315194.9059.jpg</picture>
+			<store>true</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="1599" days="0" order-before="17"/>
+			</delivery-options>
+			<typePrefix>Кухонный гарнитур</typePrefix>
+			<vendor>Hoff</vendor>
+			<model>Спектра New</model>
+			<description>Материал: корпус - ЛДСП, фасад - МДФ, пластик. 
+ В стоимость не включено: стеновая панель, бытовая техника, мойка, смеситель, аксессуары. 
+ 
+
+
+ 
+
+ Планируемая кухня производится индивидуально по вашему заказу. В программе-проектировщике составляется проект кухни нужных вам размеров, конфигурации и комплектации. Возможно изготовление нестандартных элементов. 
+ 
+ Создать индивидуальное решение и рассчитать его стоимость вам помогут продавцы-консультанты в наших магазинах.</description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>7777800565437</barcode>
+			<param name="Стиль">Модерн</param>
+			<param name="Тип начисления бонусов">2%</param>
+			<param name="Класс товара">Мебель</param>
+			<param name="Коллекция">Спектра new</param>
+			<param name="Модель продаж">Основной ассортимент</param>
+			</offer>
+			<offer id="80056547" type="vendor.model" available="true">
+			<url>https://hoff.ru/catalog/kuhnya/kuhonnye_garnitury/planiruemie/kukhonnyy_garnitur_regina_id105578/?articul=80056547</url>
+			<price>118158</price>
+			<oldprice>147699</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>702</categoryId>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056547_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056547_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056547_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056547_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056547_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056547_t1667315194.9059.jpg</picture>
+			<picture>https://pics43.procontext.ru/feeds/img/hoff_msk1/80056547_t1667315194.9059.jpg</picture>
+			<store>true</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="1599" days="0" order-before="17"/>
+			</delivery-options>
+			<typePrefix>Кухонный гарнитур</typePrefix>
+			<vendor>Hoff</vendor>
+			<model>Регина</model>
+			<description>Материал: корпус - ЛДСП, фасад - МДФ, пленка ПВХ 
+ В стоимость не включено: стеновая панель, бытовая техника, мойка, смеситель, аксессуары. 
+ 
+
+ 
+
+ 
+ 
+
+ Планируемая кухня производится индивидуально по вашему заказу. В программе-проектировщике составляется проект кухни нужных вам размеров, конфигурации и комплектации. Возможно изготовление нестандартных элементов. 
+ 
+ Создать индивидуальное решение и рассчитать его стоимость вам помогут продавцы-консультанты в наших магазинах.</description>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>7777800565475</barcode>
+			<param name="Стиль">Модерн</param>
+			<param name="Фасады">МДФ, пленка ПВХ матовая</param>
+			<param name="Тип начисления бонусов">2%</param>
+			<param name="Класс товара">Мебель</param>
+			<param name="Коллекция">Регина</param>
+			<param name="Модель продаж">Основной ассортимент</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
+
