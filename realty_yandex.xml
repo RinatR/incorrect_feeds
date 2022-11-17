@@ -12,18 +12,13 @@
 <address>Яузская улица, 27</address>
 <apartment>135</apartment>
  </location>
-<price>
-<value>400,00.00</value>
-<currency>RUR</currency>
-</price>
+
 <url>https://yandex.ru/moskva_i_moskovskaya_oblast/kupit/novostrojka/molzhaninovo-2890148/</url>
 <image>https://cdn-icons-png.flaticon.com/512/108/108732.png</image>
 <area>
 <value>56</value>
 <unit>кв.</unit>
 </area>
-<organization>ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg</organization>
-<rooms>1.5</rooms>
 <floor>12.5</floor>
 <floors>12.5</floors>
 <android_url>myapp://product?article=100001 </android_url>
