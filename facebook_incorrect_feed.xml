@@ -9,7 +9,7 @@
 <g:id>1</g:id>
 <g:link>https://dyatkovo.ru/</g:link>
 <g:image_link>https://icons.iconarchive.com/icons/treetog/junior/128/camera-icon.png</g:image_link>
-<g:price>1,90 RUB</g:price>
+
 <g:condition>новый</g:condition>
 <brand>ESTE </brand>
 <age_group>взрослые</age_group>
@@ -30,7 +30,7 @@
 <g:id>3</g:id>
 <g:link>https://dyatkovo.ru/</g:link>
 <g:image_link>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</g:image_link>
-<g:price>1.90 RUB</g:price>
+
 <g:condition>после ремонта</g:condition>
 <brand>ESTE </brand>
 <age_group>подростки</age_group>
@@ -42,7 +42,6 @@
 <g:link>https://dyatkovo.ru/</g:link>
 <g:image_link>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</g:image_link>
 <g:price>1.99 RUB</g:price>
-
 <g:condition>new</g:condition>
 <brand>ESTE </brand>  
 </item>
