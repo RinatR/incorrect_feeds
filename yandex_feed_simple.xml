@@ -29,6 +29,8 @@
   <age unit="year">18</age>
   <bundle_id>ru.sokolov</bundle_id>
   <ios_app_store_id>100500 </ios_app_store_id>
+  <android_tracking_url>https://app.appsflyer.com</android_tracking_url>
+  <ios_tracking_url>https://app.appsflyer.com</ios_tracking_url>
 </offer>
 <offer id="1" available="true">
   <name>Утюг Tefal SuperPuper</name>  
@@ -50,6 +52,8 @@
   <age unit="year">18</age>
    <bundle_id>ru.sokolov</bundle_id>
   <ios_app_store_id>100500 </ios_app_store_id>
+  <android_tracking_url>https://app.appsflyer.com</android_tracking_url>
+  <ios_tracking_url>https://app.appsflyer.com</ios_tracking_url>
 </offer>
 </offers>
 </shop>
