@@ -14,8 +14,8 @@
 <max_price>1,33 RUB</max_price>
 <g:condition>new</g:condition>
 <brand>ESTE </brand>
-<ios_url>ozon://product/1</ios_url>
-<android_url>bozon://product/1</android_url>
+<mobile_android_app_link>ozon://product/1</mobile_android_app_link>
+<mobile_ios_app_link>bozon://product/1</mobile_ios_app_link>
 <android_app_link>me.unfollowers..droid</android_app_link>
 <mobile_ios_app_store_id>100500 </mobile_ios_app_store_id>
 <android_tracking_url>https://app.appsflyer.com</android_tracking_url>
