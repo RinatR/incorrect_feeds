@@ -24,7 +24,9 @@
       <g:size>Без размера</g:size>
       <g:gender>unisex</g:gender>
       <g:age_group>adult</g:age_group>
-      
+      <g:mobile_android_app_link>sportmaster://product/1</mobile_android_app_link>
+      <g:mobile_ios_app_link>sportmaster://product/1</mobile_ios_app_link>	    
+	    
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
 	  <g:android_app_link>ru.sportmaster.app</g:android_app_link>
 	  <g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</g:android_tracking_url>
@@ -52,6 +54,8 @@
       <g:size>45</g:size>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+	    <g:mobile_android_app_link>sportmaster://product/1</mobile_android_app_link>
+      <g:mobile_ios_app_link>sportmaster://product/1</mobile_ios_app_link>
 	     
       <g:android_app_link>ru.sportmaster.app</g:android_app_link>
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
@@ -80,6 +84,8 @@
       <g:size>45</g:size>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+	       <g:mobile_android_app_link>sportmaster://product/1</mobile_android_app_link>
+      <g:mobile_ios_app_link>sportmaster://product/1</mobile_ios_app_link>
 	        
       <g:android_app_link>ru.sportmaster.app</g:android_app_link>
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
@@ -108,6 +114,8 @@
       <g:size>45</g:size>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+		     <g:mobile_android_app_link>sportmaster://product/1</mobile_android_app_link>
+      <g:mobile_ios_app_link>sportmaster://product/1</mobile_ios_app_link>
 		      
       <g:android_app_link>ru.sportmaster.app</g:android_app_link>
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
@@ -136,6 +144,8 @@
       <g:size>45</g:size>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+		     <g:mobile_android_app_link>sportmaster://product/1</mobile_android_app_link>
+      <g:mobile_ios_app_link>sportmaster://product/1</mobile_ios_app_link>
 		      
       <g:android_app_link>ru.sportmaster.app</g:android_app_link>
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
@@ -164,6 +174,8 @@
       <g:size>45</g:size>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+		     <g:mobile_android_app_link>sportmaster://product/1</mobile_android_app_link>
+      <g:mobile_ios_app_link>sportmaster://product/1</mobile_ios_app_link>
 		     <g:android_app_link>ru.sportmaster.app</g:android_app_link>		      
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
 	  <g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</g:android_tracking_url>
