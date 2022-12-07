@@ -11,44 +11,13 @@
 </categories>
 <offers>
 <offer id="0" available="true">
-  <name>Антивирус ESET NOD32 Platinum Edition</name> 
-  <model>Антивирус ESET NOD32 Platinum Edition</model>
-  <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
+  <name>Антивирус ESET NOD32 Platinum Edition</name>   
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>  
+  <picture>http://example.com</picture>
   <price>0</price>
   <oldprice>1800.00</oldprice>
   <currencyId>RUB</currencyId>
-  <categoryId>10</categoryId>
-  <picture>http://nizhniy-novgorod.divano.ru/upload/iblock/16d/yf3pqwwptim7wcas11g9p1k6r035n1pj.bmp</picture>  
-  <store>false</store>
-  <pickup>true</pickup>
-  <delivery>false</delivery>
-  <sales_notes>Оплата: Наличные, Б/Н, пластиковые карты, кредит</sales_notes>
-  <manufacturer_warranty>true</manufacturer_warranty>
-  <country_of_origin>Россия</country_of_origin>
-  <age unit="year">18</age>
-  <bundle_id>me.unfollowers..droid</bundle_id>
-  <ios_app_store_id></ios_app_store_id>
-  <android_tracking_url>https://app.appsflyer.com</android_tracking_url>
-  <ios_tracking_url>https://app.appsflyer.com</ios_tracking_url>
-</offer>
-<offer id="1" available="true">
-  <name>Утюг Tefal SuperPuper</name>  
-  <model>Утюг Tefal SuperPuper</model>
-  <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
-  <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>   
-  <price>0</price>  
-  <currencyId>RUB</currencyId>
-  <categoryId>10</categoryId>
-  <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/0/2/020714325299_1_ycgmukwtwzmvvjsl.jpg</picture>
-  <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/0/2/020714325299_1_ycgmukwtwzmvvjsl.jpg</picture>
-  <store>false</store>
-  <pickup>true</pickup>
-  <delivery>false</delivery>
-  <sales_notes>Оплата: Наличные, Б/Н, пластиковые карты, кредит</sales_notes>
-  <manufacturer_warranty>true</manufacturer_warranty>
-  <country_of_origin>Россия</country_of_origin>
-  <age unit="year">18</age>
+  <categoryId>10</categoryId>  <
 </offer>
 </offers>
 </shop>
