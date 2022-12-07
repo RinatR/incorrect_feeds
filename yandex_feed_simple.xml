@@ -18,6 +18,7 @@
   <oldprice>1800.00</oldprice>
   <currencyId>RUB</currencyId>
   <categoryId>10</categoryId>  
+  <url>http://example.com</url>
 </offer>
 </offers>
 </shop>
