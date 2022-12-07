@@ -20,6 +20,16 @@
   <categoryId>10</categoryId>  
   <url>http://example.com</url>
 </offer>
+  <offer id="1" available="true">
+  <name>Антивирус ESET NOD32 Platinum Edition</name>   
+  <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>  
+  <picture>http://example.com</picture>
+  <price>-200</price>
+  <oldprice>1800.00</oldprice>
+  <currencyId>RUB</currencyId>
+  <categoryId>10</categoryId>  
+  <url>http://example.com</url>
+</offer>
 </offers>
 </shop>
 </yml_catalog>
