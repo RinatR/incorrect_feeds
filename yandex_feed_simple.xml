@@ -16,7 +16,7 @@
   <picture>http://example.com</picture>
   <price>145,55,55,77</price>
   <oldprice>1800.00.44</oldprice>
-  <currencyId>RUB</currencyId>
+  <currencyId>BUB</currencyId>
   <categoryId>10</categoryId>  
   <url>http://example.com</url>
 </offer>
