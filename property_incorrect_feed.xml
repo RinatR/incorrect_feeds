@@ -19,7 +19,7 @@
 <price>6000000 RUB</price>
 <property_type>дом</property_type>
 <area_size>500</area_size>
-<area_unit>кв. фут</area_unit>
+<area_unit>sq_m</area_unit>
 <link>http://www.example.com/link_to_listing</link>
 <year_built>2014</year_built>
  <android_tracking_url> http://app.appsflyer.com/id1507091602?af_c_id={{campaign_id}}</android_tracking_url>
@@ -46,7 +46,7 @@
 <price>6000000 RUB</price>
 <property_type>квартира</property_type>
 <area_size>500</area_size>
-<area_unit>сотка</area_unit>
+<area_unit>кв.м</area_unit>
 <link>http://www.example.com/link_to_listing</link>
 <year_built>2014</year_built>
  <android_tracking_url> http://app.appsflyer.com/id1507091602?af_c_id={{campaign_id}}</android_tracking_url>
