@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<torg_price date="2018-01-01 00:01">
+<shop>
+    <name>Интернет-магазин</name>
+    <company>ООО "Магазин"</company>
+    <url>https://www.example.com</url>
+    <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>    
+    <categories>
+        <category id="1" parentId="0">Кондиционеры</category>
+        <category id="2" parentId="1">Настенные кондиционеры</category>
+    </categories>
+    <offers>
+        <offer id="0" available="true">
+            <url>https://mail.ru</url>
+            <price>500.00</price>
+            <oldprice>400.00</oldprice>
+            <currencyId>BYN</currencyId>
+            <categoryId>2</categoryId>
+            <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
+            <name>Кондиционер Jax 100500 🛠</name>
+            <description> 
+            LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT,🧒</description>
+        </offer>
+          <offer id="1" available="true">
+            <url>https://mail.ru</url>
+             <price>50000</price>
+            <oldprice>40000</oldprice>
+            <currencyId>BYN</currencyId>
+            <categoryId>2</categoryId>
+            <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
+            <name>Кондиционер Jax 100500</name>
+            <custom_label_1>Настенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционеры</custom_label_1>
+        </offer>
+          <offer id="2" available="true">
+            <url>https://mail.ru</url>
+             <price>500,22.00</price>
+            <oldprice>400,22.00</oldprice>
+            <currencyId>BYN</currencyId>
+            <categoryId>2</categoryId>
+            <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
+            <typePrefixКондиционер ⌚️ </typePrefix>
+            <model>100500😁</model>
+            <vendor>Jax 💪</vendor>
+            <description>Настенные кондиционерыНастенные кондиционеры ⌚️ </description>
+            </offer>
+          <offer id="3" available="true">
+            <url>https://mail.ru</url>
+             <price>500,22.00</price>
+            <oldprice>400,22.00</oldprice>
+            <currencyId>BYN</currencyId>
+            <categoryId>2</categoryId>
+            <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
+            <name>Кондиционер Jax 100500</name>
+            <custom_label_3>Настенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционеры </custom_label_3>
+        </offer>
+          <offer id="4" available="true">
+            <url>https://mail.ru</url>
+             <price>50000</price>
+            <oldprice>40000</oldprice>
+            <currencyId>BYN</currencyId>
+            <categoryId>2</categoryId>
+            <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
+            <name>Кондиционер Jax 100500</name>
+            <custom_label_4>Настенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционерыНастенные кондиционеры</custom_label_4>
+        </offer>
+          <offer id="5" available="true">
+            <url>https://mail.ru</url>
+            <price>30203</price>
+            <oldprice>100</oldprice>
+            <currencyId>BYN</currencyId>
+            <categoryId>2</categoryId>
+            <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
+            <name>Кондиционер Jax 100500</name>            
+        </offer>
+ 
+    </offers>
+</shop>
+</torg_price>
