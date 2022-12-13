@@ -20,8 +20,8 @@
             <ios_url>ru.leroymerlin://product/85630307</ios_url>
             <bundle_id>ru.leroymerlin.mobile</bundle_id>
             <ios_app_store_id>896354843</ios_app_store_id>
-            <android_tracking_url>https://app.appsflyer.com/ru.leroymerlin.mobile?deep_link_value=ru.leroymerlin%3A%2F%2Fproduct%2F85630307%2F</android_tracking_url>
-            <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
+            <android_tracking_url>https://leroymerlin.onelink.me/ru.leroymerlin.mobile?deep_link_value=ru.leroymerlin%3A%2F%2Fproduct%2F85630307%2F</android_tracking_url>
+            <ios_tracking_url>https://app.appsflyer.com/id896354843?af_dp=ru.leroymerlin%3A%2F%2Fproduct%2F85630307%2F</ios_tracking_url>
         </offer>
         <offer id="85630305" available="true">
             <name>Комод Реан 3 ящика 70x71.4x39.6 см ЛДСП цвет гикори джексон</name>
@@ -38,7 +38,7 @@
             <bundle_id>ru.leroymerlin.mobile</bundle_id>
             <ios_app_store_id>896354843</ios_app_store_id>
             <android_tracking_url>https://app.appsflyer.com/ru.leroymerlin.mobile?deep_link_value=ru.leroymerlin%3A%2F%2Fproduct%2F85630305%2F</android_tracking_url>
-            <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
+            <ios_tracking_url>https://app.appsflyer.com/id896354843?deep_link_value=ru.leroymerlin%3A%2F%2Fproduct%2F85630307%2F</ios_tracking_url>
         </offer>
         <offer id="85630306" available="true">
             <name>Комод Реан 5 ящиков 70x111.4x39.6 см ЛДСП цвет белый</name>
@@ -55,7 +55,7 @@
             <bundle_id>ru.leroymerlin.mobile</bundle_id>
             <ios_app_store_id>896354843</ios_app_store_id>
             <android_tracking_url>https://app.appsflyer.com/ru.leroymerlin.mobile?deep_link_value=ru.leroymerlin%3A%2F%2Fproduct%2F85630306%2F</android_tracking_url>
-            <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
+            <ios_tracking_url>https://app.appsflyer.com/id896354843?af_dp=ru.leroymerlin%3A%2F%2Fproduct%2F85630307%2F</ios_tracking_url>
         </offer>
         <offer id="85630304" available="true">
             <name>Комод Реан 3 ящика 70x71.4x39.6 см ЛДСП цвет белый</name>
