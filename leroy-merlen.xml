@@ -36,7 +36,7 @@
             <bundle_id>ru.leroymerlin.mobile</bundle_id>
             <ios_app_store_id>896354843</ios_app_store_id>
             <android_tracking_url>https://app.appsflyer.com/ru.leroymerlin.mobile?deep_link_value=ru.leroymerlin%3A%2F%2Fproduct%2F85630305%2F</android_tracking_url>
-            <ios_tracking_url>https://app.appsflyer.com/id896354843?deep_link_value=ru.leroymerlin%3A%2F%2Fproduct%2F85630307%2F</ios_tracking_url>
+            <ios_tracking_url>https://app.appsflyer.com/id896354843?af_dp=ru.leroymerlin%3A%2F%2Fproduct%2F85630307%2F</ios_tracking_url>
         </offer> 
 	</offers>
 	</shop>
