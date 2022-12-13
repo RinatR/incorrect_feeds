@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2022-11-16 12:08">
+	<shop>
+		
+		<currencies><currency id="RUR" rate="1"></currency></currencies>
+
+		<offers>
+	 <offer id="85630307" available="true">
+            <name>Комод Реан 5 ящиков 70x111.4x39.6 см ЛДСП цвет гикори джексон</name>
+            <categoryId>90863898</categoryId>
+            <url>https://arkhangelsk.leroymerlin.ru/product/komod-rean-5-yashchikov-70x1114x396-sm-ldsp-cvet-gikori-dzhekson-85630307/</url>
+            <price>8498</price>
+            <currencyId>RUR</currencyId>
+            <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1669215731/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/I6vHoRxwx0GGu5ZuF6-tKA/85630307.png</picture>
+            <typePrefix>Комод</typePrefix>
+            <vendor>Без бренда</vendor>
+            <model>РЕАН</model>
+            <android_url>ru.leroymerlin://product/85630307</android_url>
+            <ios_url>ru.leroymerlin://product/85630307</ios_url>
+            <bundle_id>ru.leroymerlin.mobile</bundle_id>
+            <ios_app_store_id>896354843</ios_app_store_id>
+            <android_tracking_url>https://app.appsflyer.com/ru.leroymerlin.mobile?deep_link_value=ru.leroymerlin%3A%2F%2Fproduct%2F85630307%2F</android_tracking_url>
+            <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
+        </offer>
+        <offer id="85630305" available="true">
+            <name>Комод Реан 3 ящика 70x71.4x39.6 см ЛДСП цвет гикори джексон</name>
+            <categoryId>90863898</categoryId>
+            <url>https://arkhangelsk.leroymerlin.ru/product/komod-rean-3-yashchika-70x714x396-sm-ldsp-cvet-gikori-dzhekson-85630305/</url>
+            <price>5598</price>
+            <currencyId>RUR</currencyId>
+            <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1669215751/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/J3AcuDoI3k-V1lhVWQaQeA/85630305.png</picture>
+            <typePrefix>Комод</typePrefix>
+            <vendor>Без бренда</vendor>
+            <model>РЕАН</model>
+            <android_url>ru.leroymerlin://product/85630305</android_url>
+            <ios_url>ru.leroymerlin://product/85630305</ios_url>
+            <bundle_id>ru.leroymerlin.mobile</bundle_id>
+            <ios_app_store_id>896354843</ios_app_store_id>
+            <android_tracking_url>https://app.appsflyer.com/ru.leroymerlin.mobile?deep_link_value=ru.leroymerlin%3A%2F%2Fproduct%2F85630305%2F</android_tracking_url>
+            <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
+        </offer>
+        <offer id="85630306" available="true">
+            <name>Комод Реан 5 ящиков 70x111.4x39.6 см ЛДСП цвет белый</name>
+            <categoryId>90863898</categoryId>
+            <url>https://arkhangelsk.leroymerlin.ru/product/komod-rean-5-yashchikov-70x1114x396-sm-ldsp-cvet-belyy-85630306/</url>
+            <price>7998</price>
+            <currencyId>RUR</currencyId>
+            <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1669215738/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/IciVdHIXrk-tOa-f-oRaQA/85630306.png</picture>
+            <typePrefix>Комод</typePrefix>
+            <vendor>Без бренда</vendor>
+            <model>РЕАН</model>
+            <android_url>ru.leroymerlin://product/85630306</android_url>
+            <ios_url>ru.leroymerlin://product/85630306</ios_url>
+            <bundle_id>ru.leroymerlin.mobile</bundle_id>
+            <ios_app_store_id>896354843</ios_app_store_id>
+            <android_tracking_url>https://app.appsflyer.com/ru.leroymerlin.mobile?deep_link_value=ru.leroymerlin%3A%2F%2Fproduct%2F85630306%2F</android_tracking_url>
+            <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
+        </offer>
+        <offer id="85630304" available="true">
+            <name>Комод Реан 3 ящика 70x71.4x39.6 см ЛДСП цвет белый</name>
+            <categoryId>90863898</categoryId>
+            <url>https://arkhangelsk.leroymerlin.ru/product/komod-rean-3-yashchika-70x714x396-sm-ldsp-cvet-belyy-85630304/</url>
+            <price>5398</price>
+            <currencyId>RUR</currencyId>
+            <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1669215766/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/-Fv3TI1jSkuv7yfRwx3FFQ/85630304.png</picture>
+            <typePrefix>Комод</typePrefix>
+            <vendor>Без бренда</vendor>
+            <model>РЕАН</model>
+            <android_url>ru.leroymerlin://product/85630304</android_url>
+            <ios_url>ru.leroymerlin://product/85630304</ios_url>
+            <bundle_id>ru.leroymerlin.mobile</bundle_id>
+            <ios_app_store_id>896354843</ios_app_store_id>
+            <android_tracking_url>https://app.appsflyer.com/ru.leroymerlin.mobile?deep_link_value=ru.leroymerlin%3A%2F%2Fproduct%2F85630304%2F</android_tracking_url>
+            <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
+        </offer>
+        <offer id="85633422" available="true">
+            <name>Обои флизелиновые Палитра Polynesia темно-серые 1.06 м PL71947-40</name>
+            <categoryId>99151061</categoryId>
+            <url>https://arkhangelsk.leroymerlin.ru/product/oboi-flizelinovye-palitra-polynesia-temno-serye-106-m-pl71947-40-85633422/</url>
+            <price>1995</price>
+            <currencyId>RUR</currencyId>
+            <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1665136007/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/j_CZegDu8ECxpCpgV53Q4g/85633422.png</picture>
+            <typePrefix>None</typePrefix>
+            <vendor>ПАЛИТРА</vendor>
+            <model>Polynesia PL71947-40</model>
+            <android_url>ru.leroymerlin://product/85633422</android_url>
+            <ios_url>ru.leroymerlin://product/85633422</ios_url>
+            <bundle_id>ru.leroymerlin.mobile</bundle_id>
+            <ios_app_store_id>896354843</ios_app_store_id>
+            <android_tracking_url>https://app.appsflyer.com/ru.leroymerlin.mobile?deep_link_value=ru.leroymerlin%3A%2F%2Fproduct%2F85633422%2F</android_tracking_url>
+            <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
+        </offer>
+        <offer id="85633651" available="true">
+            <name>Обои флизелиновые Ateliero Standart белые 1.06 м At283507</name>
+            <categoryId>99151061</categoryId>
+            <url>https://arkhangelsk.leroymerlin.ru/product/oboi-flizelinovye-ateliero-standart-belye-106-m-at283507-85633651/</url>
+            <price>1198</price>
+            <currencyId>RUR</currencyId>
+            <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1666967697/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/VU01YWcC3UC290Vvo70xnQ/85633651.png</picture>
+            <typePrefix>Обои</typePrefix>
+            <vendor>ATELIERO</vendor>
+            <model>283507 Standart</model>
+            <android_url>ru.leroymerlin://product/85633651</android_url>
+            <ios_url>ru.leroymerlin://product/85633651</ios_url>
+            <bundle_id>ru.leroymerlin.mobile</bundle_id>
+            <ios_app_store_id>896354843</ios_app_store_id>
+            <android_tracking_url>https://app.appsflyer.com/ru.leroymerlin.mobile?deep_link_value=ru.leroymerlin%3A%2F%2Fproduct%2F85633651%2F</android_tracking_url>
+            <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
+        </offer>
+        <offer id="85633652" available="true">
+            <name>Обои флизелиновые Ateliero Standart серые 1.06 м At283509</name>
+            <categoryId>99151061</categoryId>
+            <url>https://arkhangelsk.leroymerlin.ru/product/oboi-flizelinovye-ateliero-standart-serye-106-m-at283509-85633652/</url>
+            <price>1198</price>
+            <currencyId>RUR</currencyId>
+            <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1666035686/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/KvM6S40UPUi6NQJ2EsjX1w/85633652.png</picture>
+            <typePrefix>Обои</typePrefix>
+            <vendor>ATELIERO</vendor>
+            <model>283509 Standart</model>
+            <android_url>ru.leroymerlin://product/85633652</android_url>
+            <ios_url>ru.leroymerlin://product/85633652</ios_url>
+            <bundle_id>ru.leroymerlin.mobile</bundle_id>
+            <ios_app_store_id>896354843</ios_app_store_id>
+            <android_tracking_url>https://app.appsflyer.com/ru.leroymerlin.mobile?deep_link_value=ru.leroymerlin%3A%2F%2Fproduct%2F85633652%2F</android_tracking_url>
+            <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
+        </offer>
+		</offers>
+	</shop>
+</yml_catalog>
+
