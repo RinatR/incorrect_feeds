@@ -12,11 +12,38 @@
 <address>Яузская улица, 27</address>
 <apartment>135</apartment>
  </location>
-
 <url>https://yandex.ru/moskva_i_moskovskaya_oblast/kupit/novostrojka/molzhaninovo-2890148/</url>
 <image>https://cdn-icons-png.flaticon.com/512/108/108732.png</image>
 <area>
-<value>56</value>
+<value>56.6</value>
+<unit>кв.</unit>
+</area>
+<floor>12.5</floor>
+<floors>12.5</floors>
+<android_url>myapp://product?article=100001 </android_url>
+<ios_url>myapp://product?article=100001 </ios_url>
+<bundle_id>ru.myapp.myapp</bundle_id>
+<ios_app_store_id>100500</ios_app_store_id>
+<android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</android_tracking_url>
+<ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</ios_tracking_url>
+<description>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT </description>
+<custom_label_0>ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg</custom_label_0>
+</offer>
+ <offer internal-id="14">
+<type>продажа</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<location>
+<country>Россия</country>
+<region>Москва</region>
+<locality-name>Москва</locality-name>
+<address>Яузская улица, 27</address>
+<apartment>135</apartment>
+ </location>
+<url>https://yandex.ru/moskva_i_moskovskaya_oblast/kupit/novostrojka/molzhaninovo-2890148/</url>
+<image>https://cdn-icons-png.flaticon.com/512/108/108732.png</image>
+<area>
+<value>56,6</value>
 <unit>кв.</unit>
 </area>
 <floor>12.5</floor>
