@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2022-12-15 10:50:18.615806">
+    <shop>
+        <currencies><currency id="RUR" rate="1" /></currencies>
+        <name>Авито</name>
+        <url>http://avito.ru</url>
+        <delivery-options>false</delivery-options>
+        <company>Авито</company>
+        <categories>
+	        <category id="147942500002">Transport.MachineryRentals</category>
+	        <category id="147942500001">Services.Household</category>
+	        <category id="147938500001">Transport.CarRentals</category>
+	        <category id="147918500001">Services.TransportationAndDelivery</category>
+	        <category id="147916500002">Services.Training</category>
+	        <category id="147910500001">Services.Business</category>
+	        <category id="147906500002">Services.MajorRepair</category>
+	        <category id="147898500002">SpareParts.Services</category>
+	        <category id="147898500001">Services.MinorRepair</category>
+	        <category id="147894500001">Services.Appliances</category>
+	        <category id="147890500001">Services.Machinery</category>
+	        <category id="147888500002">Services.HealthAndBeauty</category>
+	        <category id="147884500001">Services.EventsAndEntertainment</category>
+	        <category id="3114000002">Services.Undefined</category>
+        </categories>
+        <offers>
+        
+          <offer id="2069445951">
+          <name>Грузчики</name>
+          <url>https://avito.ru/2069445951</url>
+          <price>350</price>
+          <currencyId>RUR</currencyId>
+          <categoryId>147918500001</categoryId>
+          <picture>https://76.img.avito.st/640x480/10084062476.jpg</picture>
+          <description>услуги грузчиков 24/7. Переезды офисные складские квартирные , выгрузк</description>
+          <android_tracking_url>https://app.adjust.com/2atwhmb?campaign={{campaign_name}}&amp;amp;adgroup={{campaign_id}}&amp;creative={{geo}}_{{gender}}_{{age}}&amp;idfa={idfa}&amp;gps_adid={gaid}&amp;android_id={android_id}&amp;mytarget_click_id={transaction_id}</android_tracking_url>
+          <ios_tracking_url>https://app.adjust.com/i8ijw5d?campaign={{campaign_name}}&amp;adgroup={{campaign_id}}&amp;creative={{geo}}_{{gender}}_{{age}}&amp;idfa={idfa}&amp;gps_adid={gaid}&amp;android_id={android_id}&amp;mytarget_click_id={transaction_id}</ios_tracking_url>
+          <bundle_id>com.avito.android</bundle_id>
+          <ios_app_store_id>417281773</ios_app_store_id>
+          <android_url>ru.avito://1/item/show?itemId=2069445951</android_url>
+          <ios_url>ru.avito://1/item/show?itemId=2069445951</ios_url>
+        </offer>
+   </offers>
+    </shop>
+</yml_catalog>
+        
+          
