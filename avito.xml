@@ -17,8 +17,8 @@
           <categoryId>147918500001</categoryId>
           <picture>https://76.img.avito.st/640x480/10084062476.jpg</picture>
           <description>услуги грузчиков 24/7. Переезды офисные складские квартирные , выгрузк</description>
-          <android_tracking_url>https://app.adjust.com/2atwhmb?campaign=test&adgroup=100500&creative=RU_male_33&idfa=234242&gps_adid=2342342&android_id=223434&mytarget_click_id=2442</android_tracking_url>
-          <!-- <ios_tracking_url>https://app.adjust.com/i8ijw5d?campaign={{campaign_name}}&adgroup={{campaign_id}}&creative={{geo}}_{{gender}}_{{age}}&idfa={idfa}&gps_adid={gaid}&android_id={android_id}&mytarget_click_id={transaction_id}</ios_tracking_url> -->
+          
+          <ios_tracking_url>https://app.adjust.com/i8ijw5d?campaign={{campaign_name}}&adgroup={{campaign_id}}&creative={{geo}}_{{gender}}_{{age}}&idfa={idfa}&gps_adid={gaid}&android_id={android_id}&mytarget_click_id={transaction_id}</ios_tracking_url>
           <bundle_id>com.avito.android</bundle_id>
           <ios_app_store_id>417281773</ios_app_store_id>
           <android_url>ru.avito://1/item/show?itemId=2069445951</android_url>
