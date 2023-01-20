@@ -6,7 +6,7 @@
 	<offer internal-id="1245">
 		<type>продажа</type>
 		<property-type>жилая</property-type>
-		<category>квартира</category>
+		<category>квартирка</category>
 		<deal-status>первичная продажа вторички</deal-status>
 		<creation-date>2010-11-13T12:32:45+04:00</creation-date>
 		<location>
@@ -40,7 +40,7 @@
 	<offer internal-id="3">
 		<type>аренда</type>
 		<property-type>жилая</property-type>
-		<category>комната</category>
+		<category>флигель</category>
 		<creation-date>2010-11-13T12:32:45+04:00</creation-date>
 		<location>
 			<country>Россия</country>
@@ -80,7 +80,7 @@
 	<!-- Гараж -->
 	<offer internal-id="15">
 		<type>продажа</type>
-		<category>гараж</category>
+		<category>сарай</category>
 		<garage-type>гараж</garage-type>
 		<creation-date>2017-03-22T10:10:05+04:00</creation-date>
 		<location>
