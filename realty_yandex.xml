@@ -9,7 +9,7 @@
 		<category>квартирка</category>
 		<deal-status>первичная продажа вторички</deal-status>
 		<creation-date>2010-11-13T12:32:45+04:00</creation-date>
-		<location>
+		
 			<country>Россия</country>
 			<locality-name>Москва</locality-name>
 			<address>Яузская улица, 27</address>
@@ -17,7 +17,7 @@
 			<metro>
 				<name>Китай-город</name>
 			</metro>
-		</location>
+		
 		<sales-agent>
 			<category>agency</category>
 			<phone>+74951234567</phone>
@@ -42,14 +42,14 @@
 		<property-type>жилая</property-type>
 		<category>флигель</category>
 		<creation-date>2010-11-13T12:32:45+04:00</creation-date>
-		<location>
+		
 			<country>Россия</country>
 			<region>Ленинградская область</region>
 			<district>Выборгский район</district>
 			<locality-name>Выборг</locality-name>
 			<address>Cторожевой башни, 2</address>
 			<apartment>16</apartment>
-		</location>
+		
 		<sales-agent>
 			<phone>+79104565459</phone>
 			<category>владелец</category>
