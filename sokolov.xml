@@ -17,7 +17,7 @@
 		<g:sale_price>1240 RUB</g:sale_price>		
 		<g:price>0 RUB</g:price>		
 		<applink property="ios_url" content="sokolov://product/01.00.01.1-1.0.10-8.25.2"/>
-		<applink property="ios_app_store_id" content="1501705341"/>		
+		<applink property="ios_app_store_id" content="ios_app_store_id"/>		
 		<applink property="android_url" content="sokolov://product/01.00.01.1-1.0.10-8.25.2"/>
 		<applink property="android_package" content="ru.sokolov.android"/>				
 		<g:title>Кожаный ремешок</g:title>
