@@ -17,7 +17,7 @@
             <android_url>ru.leroymerlin://product/85630307</android_url>
             <ios_url>ru.leroymerlin://product/85630307</ios_url>
             <bundle_id>ru.leroymerlin.mobile</bundle_id>
-            <ios_app_store_id>896354843</ios_app_store_id>
+            <ios_app_store_id>leroymerlin</ios_app_store_id>
             <android_tracking_url>https://leroymerlin.onelink.me/ru.leroymerlin.mobile</android_tracking_url>
             <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
         </offer>
