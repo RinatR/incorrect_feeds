@@ -50,8 +50,6 @@
 <param name="Пол">Мужской</param>
 <bundle_id>ru.superstep.android</bundle_id>
 <ios_app_store_id>1620157080</ios_app_store_id>
-<ios_tracking_url>https://redirect.appmetrica.yandex.com/serve/172199548804978548?c={{campaign_id}}&campaign_name={{campaign_name}}&gender={{gender}}&click_id={clickid}&banner_id={{banner_id}}&pid=mail.ru_int&age={{age}}</ios_tracking_url>
-<android_tracking_url>https://redirect.appmetrica.yandex.com/serve/748660301058089724?c={{campaign_id}}&campaign_name={{campaign_name}}&gender={{gender}}&click_id={clickid}&banner_id={{banner_id}}&pid=mail.ru_int&age={{age}}</android_tracking_url>
 </offer>
 <offer id="305922" available="true">
 <url>https://superstep.ru/catalog/botinkiv-muzh/urban_breaker_319/</url>
@@ -72,8 +70,6 @@
 <param name="Пол">Мужской</param>
 <bundle_id>ru.superstep.android</bundle_id>
 <ios_app_store_id>1620157080</ios_app_store_id>
-<ios_tracking_url>https://redirect.appmetrica.yandex.com/serve/172199548804978548?c={{campaign_id}}&campaign_name={{campaign_name}}&gender={{gender}}&click_id={clickid}&banner_id={{banner_id}}&pid=mail.ru_int&age={{age}}</ios_tracking_url>
-<android_tracking_url>https://redirect.appmetrica.yandex.com/serve/748660301058089724?c={{campaign_id}}&campaign_name={{campaign_name}}&gender={{gender}}&click_id={clickid}&banner_id={{banner_id}}&pid=mail.ru_int&age={{age}}</android_tracking_url>
 </offer>
  </offers>
   </shop>
