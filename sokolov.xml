@@ -21,6 +21,8 @@
 		<applink property="android_url" content="sokolov://product/01.00.01.1-1.0.10-8.25.2"/>
 		<applink property="android_package" content="ru.sokolov.android"/>				
 		<g:title>Кожаный ремешок</g:title>
+		<g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</g:android_tracking_url>
+		<g:ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int</g:ios_tracking_url>
 	</entry>
 
   </feed>
