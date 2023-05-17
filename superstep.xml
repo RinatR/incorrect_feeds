@@ -47,7 +47,7 @@
 <name>Lacoste URBAN BREAKER 419</name>
 <param name="Цвет" unit="RU">черный</param>
 <description>Lacoste - это дань уважения спортивному прошлому бренда в сочетании с современными технологиями. Универсальность, удобство и практичность сделает их фаворитами твоего гардероба Качественный пошив,мягкий задник, не натира...</description>
-<param name="Пол">Мужской</param>
+<param name="Gender">МУЖСКОЙ</param>
 <bundle_id>ru.superstep.android</bundle_id>
 <ios_app_store_id>1620157080</ios_app_store_id>
 </offer>
