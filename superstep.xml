@@ -111,6 +111,26 @@
 <bundle_id>ru.superstep.android</bundle_id>
 <ios_app_store_id>1620157080</ios_app_store_id>
 </offer>
+ <offer id="3059227" available="true">
+<url>https://superstep.ru/catalog/botinkiv-muzh/urban_breaker_319/</url>
+<price>13286.00</price>
+<oldprice>18980.00</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>145</categoryId>
+<picture>https://superstep.ru/upload/photo/1476/738CMA0058ND1/738CMA0058ND1.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA0058ND1/738CMA0058ND1.01.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA0058ND1/738CMA0058ND1.02.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA0058ND1/738CMA0058ND1.03.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA0058ND1/738CMA0058ND1.04.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA0058ND1/738CMA0058ND1.05.jpg</picture>
+<delivery>true</delivery>
+<name>Lacoste URBAN BREAKER 319</name>
+<param name="Цвет" unit="RU">синий</param>
+<description>Lacoste - это дань уважения спортивному прошлому бренда в сочетании с современными технологиями. Универсальность, удобство и практичность сделает их фаворитами твоего гардероба Качественный пошив,мягкий задник, не натира...</description>
+<param name="Пол">МУЖИЦКИЙ</param>
+<bundle_id>ru.superstep.android</bundle_id>
+<ios_app_store_id>1620157080</ios_app_store_id>
+</offer>
  </offers>
   </shop>
   </yml_catalog>
