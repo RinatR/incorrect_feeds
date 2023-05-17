@@ -1,0 +1,80 @@
+<yml_catalog date="2023-05-17 10:15">
+<shop>
+<name>Интернет-магазин SuperStep</name>
+<company>Интернет-магазин SuperStep</company>
+<url>https://superstep.ru</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="1075" parentId="1149">Кроссовки</category>
+<category id="1074" parentId="1149">Кеды</category>
+<category id="235" parentId="1149">Ботинки</category>
+<category id="1089" parentId="1149">Сланцы</category>
+<category id="1112" parentId="1110">Куртки</category>
+<category id="213" parentId="1110">Шапки</category>
+<category id="210" parentId="1110">Сумки</category>
+<category id="1114" parentId="1110">Толстовки</category>
+<category id="1116" parentId="1110">Футболки</category>
+<category id="1127" parentId="1110">Брюки и шорты</category>
+<category id="1077" parentId="1150">Кроссовки</category>
+<category id="1076" parentId="1150">Кеды</category>
+<category id="145" parentId="1150">Ботинки</category>
+<category id="1117" parentId="1111">Куртки</category>
+<category id="204" parentId="1111">Шапки и кепки</category>
+<category id="1118" parentId="1111">Толстовки</category>
+<category id="1119" parentId="1111">Поло</category>
+<category id="201" parentId="1111">Сумки</category>
+<category id="1120" parentId="1111">Футболки</category>
+<category id="1128" parentId="1111">Брюки и шорты</category>
+<category id="1121" parentId="1111">Спортивные брюки</category>
+<category id="1146" parentId="1151">Кроссовки</category>
+</categories>
+<offers>
+<offer id="305915" available="true">
+<url>https://superstep.ru/catalog/botinkiv-muzh/urban_breaker_419/</url>
+<price>13286.00</price>
+<oldprice>18980.00</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>145</categoryId>
+<picture>https://superstep.ru/upload/photo/1476/738CMA006702H/738CMA006702H.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA006702H/738CMA006702H.01.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA006702H/738CMA006702H.02.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA006702H/738CMA006702H.03.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA006702H/738CMA006702H.04.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA006702H/738CMA006702H.05.jpg</picture>
+<delivery>true</delivery>
+<name>Lacoste URBAN BREAKER 419</name>
+<param name="Цвет" unit="RU">черный</param>
+<description>Lacoste - это дань уважения спортивному прошлому бренда в сочетании с современными технологиями. Универсальность, удобство и практичность сделает их фаворитами твоего гардероба Качественный пошив,мягкий задник, не натира...</description>
+<param name="Пол">Мужской</param>
+<bundle_id>ru.superstep.android</bundle_id>
+<ios_app_store_id>1620157080</ios_app_store_id>
+<ios_tracking_url>https://redirect.appmetrica.yandex.com/serve/172199548804978548?c={{campaign_id}}&campaign_name={{campaign_name}}&gender={{gender}}&click_id={clickid}&banner_id={{banner_id}}&pid=mail.ru_int&age={{age}}</ios_tracking_url>
+<android_tracking_url>https://redirect.appmetrica.yandex.com/serve/748660301058089724?c={{campaign_id}}&campaign_name={{campaign_name}}&gender={{gender}}&click_id={clickid}&banner_id={{banner_id}}&pid=mail.ru_int&age={{age}}</android_tracking_url>
+</offer>
+<offer id="305922" available="true">
+<url>https://superstep.ru/catalog/botinkiv-muzh/urban_breaker_319/</url>
+<price>13286.00</price>
+<oldprice>18980.00</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>145</categoryId>
+<picture>https://superstep.ru/upload/photo/1476/738CMA0058ND1/738CMA0058ND1.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA0058ND1/738CMA0058ND1.01.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA0058ND1/738CMA0058ND1.02.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA0058ND1/738CMA0058ND1.03.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA0058ND1/738CMA0058ND1.04.jpg</picture>
+<picture>https://superstep.ru/upload/photo/1476/738CMA0058ND1/738CMA0058ND1.05.jpg</picture>
+<delivery>true</delivery>
+<name>Lacoste URBAN BREAKER 319</name>
+<param name="Цвет" unit="RU">синий</param>
+<description>Lacoste - это дань уважения спортивному прошлому бренда в сочетании с современными технологиями. Универсальность, удобство и практичность сделает их фаворитами твоего гардероба Качественный пошив,мягкий задник, не натира...</description>
+<param name="Пол">Мужской</param>
+<bundle_id>ru.superstep.android</bundle_id>
+<ios_app_store_id>1620157080</ios_app_store_id>
+<ios_tracking_url>https://redirect.appmetrica.yandex.com/serve/172199548804978548?c={{campaign_id}}&campaign_name={{campaign_name}}&gender={{gender}}&click_id={clickid}&banner_id={{banner_id}}&pid=mail.ru_int&age={{age}}</ios_tracking_url>
+<android_tracking_url>https://redirect.appmetrica.yandex.com/serve/748660301058089724?c={{campaign_id}}&campaign_name={{campaign_name}}&gender={{gender}}&click_id={clickid}&banner_id={{banner_id}}&pid=mail.ru_int&age={{age}}</android_tracking_url>
+</offer>
+ </offers>
+  </shop>
+  </yml_catalog>
