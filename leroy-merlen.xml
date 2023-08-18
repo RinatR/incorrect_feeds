@@ -4,7 +4,7 @@
 	<shop>		
 		<currencies><currency id="RUR" rate="1"></currency></currencies>
 	<offers>
-	 <offer id="%" available="true">
+	 <offer id="1" available="true">
             <name>Комод Реан 5 ящиков 70x111.4x39.6 см ЛДСП цвет гикори джексон</name>
             <categoryId>90863898</categoryId>
             <url>https://arkhangelsk.leroymerlin.ru/product/komod-rean-5-yashchikov-70x1114x396-sm-ldsp-cvet-gikori-dzhekson-85630307/</url>
@@ -21,7 +21,7 @@
             <android_tracking_url>https://leroymerlin.onelink.me/ru.leroymerlin.mobile</android_tracking_url>
             <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
         </offer>
-        <offer id="*" available="true">
+        <offer id="2" available="true">
             <name>Комод Реан 3 ящика 70x71.4x39.6 см ЛДСП цвет гикори джексон</name>
             <categoryId>90863898</categoryId>
             <url>https://arkhangelsk.leroymerlin.ru/product/komod-rean-3-yashchika-70x714x396-sm-ldsp-cvet-gikori-dzhekson-85630305/</url>
@@ -38,7 +38,7 @@
             <android_tracking_url>https://leroymerlin.onelink.me/ru.leroymerlin.mobile?af_dp</android_tracking_url>
             <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
         </offer> 
-		 <offer id="85630303" available="true">
+		 <offer id="3" available="true">
             <name>Комод Реан 3 ящика 70x71.4x39.6 см ЛДСП цвет гикори джексон</name>
             <categoryId>90863898</categoryId>
             <url>https://arkhangelsk.leroymerlin.ru/product/komod-rean-3-yashchika-70x714x396-sm-ldsp-cvet-gikori-dzhekson-85630305/</url>
