@@ -55,57 +55,7 @@
             <android_tracking_url>https://leroymerlin.onelink.me/ru.leroymerlin.mobile?af_dp</android_tracking_url>
             <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
         </offer> 
-		 <offer id="85630306" available="true">
-            <name>Комод Реан 3 ящика 70x71.4x39.6 см ЛДСП цвет гикори джексон</name>
-            <categoryId>90863898</categoryId>
-            <url>https://arkhangelsk.leroymerlin.ru/product/komod-rean-3-yashchika-70x714x396-sm-ldsp-cvet-gikori-dzhekson-85630305/</url>
-            <price>5598</price>
-            <currencyId>RUR</currencyId>
-            <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1669215751/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/J3AcuDoI3k-V1lhVWQaQeA/85630305.png</picture>
-            <typePrefix>Комод</typePrefix>
-            <vendor>Без бренда</vendor>
-            <model>РЕАН</model>
-            <android_url>ru.leroymerlin://product/85630305</android_url>
-            <ios_url>ru.leroymerlin://product/85630305</ios_url>
-            <bundle_id>ru.leroymerlin.mobile</bundle_id>
-            <ios_app_store_id>896354843</ios_app_store_id>
-            <android_tracking_url>https://leroymerlin.onelink.me/ru.leroymerlin.mobile?af_dp</android_tracking_url>
-            <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
-        </offer> 
-		 <offer id="85630308" available="true">
-            <name>Комод Реан 3 ящика 70x71.4x39.6 см ЛДСП цвет гикори джексон</name>
-            <categoryId>90863898</categoryId>
-            <url>https://arkhangelsk.leroymerlin.ru/product/komod-rean-3-yashchika-70x714x396-sm-ldsp-cvet-gikori-dzhekson-85630305/</url>
-            <price>5598</price>
-            <currencyId>RUR</currencyId>
-            <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1669215751/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/J3AcuDoI3k-V1lhVWQaQeA/85630305.png</picture>
-            <typePrefix>Комод</typePrefix>
-            <vendor>Без бренда</vendor>
-            <model>РЕАН</model>
-            <android_url>ru.leroymerlin://product/85630305</android_url>
-            <ios_url>ru.leroymerlin://product/85630305</ios_url>
-            <bundle_id>ru.leroymerlin.mobile</bundle_id>
-            <ios_app_store_id>896354843</ios_app_store_id>
-            <android_tracking_url>https://leroymerlin.onelink.me/ru.leroymerlin.mobile?af_dp</android_tracking_url>
-            <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
-        </offer> 
-		 <offer id="85630309" available="true">
-            <name>Комод Реан 3 ящика 70x71.4x39.6 см ЛДСП цвет гикори джексон</name>
-            <categoryId>90863898</categoryId>
-            <url>https://arkhangelsk.leroymerlin.ru/product/komod-rean-3-yashchika-70x714x396-sm-ldsp-cvet-gikori-dzhekson-85630305/</url>
-            <price>5598</price>
-            <currencyId>RUR</currencyId>
-            <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1669215751/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/J3AcuDoI3k-V1lhVWQaQeA/85630305.png</picture>
-            <typePrefix>Комод</typePrefix>
-            <vendor>Без бренда</vendor>
-            <model>РЕАН</model>
-            <android_url>ru.leroymerlin://product/85630305</android_url>
-            <ios_url>ru.leroymerlin://product/85630305</ios_url>
-            <bundle_id>ru.leroymerlin.mobile</bundle_id>
-            <ios_app_store_id>896354843</ios_app_store_id>
-            <android_tracking_url>https://leroymerlin.onelink.me/ru.leroymerlin.mobile?af_dp</android_tracking_url>
-            <ios_tracking_url>https://app.appsflyer.com/id896354843</ios_tracking_url>
-        </offer> 
+ 
 	</offers>
 	</shop>
 </yml_catalog>
