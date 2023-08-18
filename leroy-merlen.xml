@@ -13,8 +13,7 @@
             <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1669215731/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/I6vHoRxwx0GGu5ZuF6-tKA/85630307.png</picture>
             <typePrefix>КОМОД</typePrefix>
             <vendor>РЕАН</vendor>
-            <model>РЕАН</model>
-           
+            <model>РЕАН</model>           
         </offer>
         <offer id="2" available="true">
             <name>Комод Реан 3 ящика 70x71.4x39.6 см ЛДСП цвет гикори джексон</name>
@@ -25,8 +24,7 @@
             <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1669215751/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/J3AcuDoI3k-V1lhVWQaQeA/85630305.png</picture>
             <typePrefix>КОМОД</typePrefix>
             <vendor>РЕАН</vendor>
-            <model>РЕАН</model>
-         
+            <model>РЕАН</model>         
         </offer> 
 		 <offer id="3" available="true">
             <name>Комод Реан 3 ящика 70x71.4x39.6 см ЛДСП цвет гикори джексон</name>
@@ -37,11 +35,8 @@
             <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1669215751/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/J3AcuDoI3k-V1lhVWQaQeA/85630305.png</picture>
             <typePrefix>КОМОД</typePrefix>
             <vendor>РЕАН</vendor>
-            <model>РЕАН</model>
-            <android_url>ru.leroymerlin://product/85630305</android_url>
-           
+            <model>РЕАН</model>           
         </offer> 
- 
 	</offers>
 	</shop>
 </yml_catalog>
