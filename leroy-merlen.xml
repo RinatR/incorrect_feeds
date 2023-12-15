@@ -4,26 +4,22 @@
 	<shop>		
 		<currencies><currency id="RUR" rate="1"></currency></currencies>
 	<offers>
-	 <offer id="1" available="true">
-            <name>Комод Реан 5 ящиков 70x111.4x39.6 см ЛДСП цвет гикори джексон</name>
+	 <offer id="1" available="true">           
             <categoryId>90863898</categoryId>
             <url>https://arkhangelsk.leroymerlin.ru/product/komod-rean-5-yashchikov-70x1114x396-sm-ldsp-cvet-gikori-dzhekson-85630307/</url>
             <price>8498</price>
             <currencyId>RUR</currencyId>
             <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1669215731/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/I6vHoRxwx0GGu5ZuF6-tKA/85630307.png</picture>
-            <typePrefix>КОМОД</typePrefix>
-            <vendor>РЕАН</vendor>
+            <typePrefix>КОМОД</typePrefix>           
             <model>РЕАН</model>           
         </offer>
-        <offer id="2" available="true">
-            <name>Комод Реан 3 ящика 70x71.4x39.6 см ЛДСП цвет гикори джексон</name>
+        <offer id="2" available="true">            
             <categoryId>90863898</categoryId>
             <url>https://arkhangelsk.leroymerlin.ru/product/komod-rean-3-yashchika-70x714x396-sm-ldsp-cvet-gikori-dzhekson-85630305/</url>
             <price>5598</price>
             <currencyId>RUR</currencyId>
             <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1669215751/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/J3AcuDoI3k-V1lhVWQaQeA/85630305.png</picture>
-            <typePrefix>КОМОД</typePrefix>
-            <vendor>РЕАН</vendor>
+            <typePrefix>КОМОД</typePrefix>            
             <model>РЕАН</model>         
         </offer> 
 		 <offer id="3" available="true">
@@ -33,8 +29,7 @@
             <price>5598</price>
             <currencyId>RUR</currencyId>
             <picture>https://cdn.leroymerlin.ru/lmru/image/upload/v1669215751/b_white,c_pad,d_photoiscoming.png,f_auto,h_600,q_auto,w_600/lmcode/J3AcuDoI3k-V1lhVWQaQeA/85630305.png</picture>
-            <typePrefix>КОМОД</typePrefix>
-            <vendor>РЕАН</vendor>
+            <typePrefix>КОМОД</typePrefix>            
             <model>РЕАН</model>           
         </offer> 
 	</offers>
